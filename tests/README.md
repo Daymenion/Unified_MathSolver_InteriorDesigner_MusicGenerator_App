@@ -1,6 +1,6 @@
-# Codeway AI Suite Testing Framework
+# Daymenion AI Suite Testing Framework
 
-This directory contains comprehensive testing tools for the Codeway AI Suite applications. The testing framework verifies the functionality of all three applications:
+This directory contains comprehensive testing tools for the Daymenion AI Suite applications. The testing framework verifies the functionality of all three applications:
 
 1. **Nerd AI** - Math Problem Solver
 2. **Interior Design App** - Room Style Transformer
@@ -10,10 +10,10 @@ This directory contains comprehensive testing tools for the Codeway AI Suite app
 
 The testing framework includes:
 
-- Individual unit tests for each component
-- Integration tests for component interactions
-- End-to-end tests for complete application workflows
-- Performance and reliability tests
+- `test_suite.py` - Comprehensive suite of unit and integration tests
+- `run_tests.py` - Command-line test runner with various options
+- `showcase.py` - Demonstration script of all three applications
+- `test_hf_integration.py` - Hugging Face API integration tests
 
 ## Running Tests
 
@@ -22,7 +22,7 @@ The testing framework includes:
 To run all tests:
 
 ```bash
-python tests/test_suite.py
+python tests/run_tests.py
 ```
 
 ### Command Line Options
@@ -31,13 +31,13 @@ The test suite supports several command-line options:
 
 ```bash
 # Run specific tests
-python tests/test_suite.py --test openai_api nerd_ai_ocr
+python tests/run_tests.py --test openai_api nerd_ai_ocr
 
 # Skip slow tests
-python tests/test_suite.py --skip-slow
+python tests/run_tests.py --skip-slow
 
 # Set log level
-python tests/test_suite.py --log-level DEBUG
+python tests/run_tests.py --log-level DEBUG
 ```
 
 Available test options:
@@ -45,6 +45,35 @@ Available test options:
 - Nerd AI: `nerd_ai_ocr`, `nerd_ai_classification`, `nerd_ai_solution`, `nerd_ai_e2e`
 - Interior Design: `interior_room_detection`, `interior_prompt`, `interior_transform`
 - Music Generator: `music_lyrics`, `music_cover_art`, `music_e2e`
+
+## Showcase Demo
+
+The showcase script demonstrates all three applications with sample inputs:
+
+```bash
+python tests/showcase.py
+```
+
+This script:
+- Solves sample math problems using Nerd AI
+- Transforms room images with the Interior Design app
+- Generates lyrics and cover art with the Music Generator
+- Saves all outputs to the data/showcase directory
+
+## Hugging Face API Integration Tests
+
+To test Hugging Face API integration for image generation:
+
+```bash
+python tests/test_hf_integration.py
+```
+
+This script tests:
+- Text-to-image generation with multiple models
+- Image-to-image transformation capabilities
+- API error handling and robustness
+
+**Note:** These tests require a valid Hugging Face API key in your environment variables.
 
 ## Logging
 
@@ -71,4 +100,14 @@ When adding new functionality to any of the applications, corresponding tests sh
 - Each test should have a clear purpose and test only one aspect of functionality
 - Mock external dependencies when possible to ensure consistent test results
 - Include both positive (expected success) and negative (expected failure) test cases
-- Maintain test coverage for all critical application paths 
+- Maintain test coverage for all critical application paths
+
+## Error Handling Tests
+
+The latest version includes robust error handling tests:
+
+- Testing invalid inputs and edge cases
+- Verifying appropriate error messages
+- Ensuring graceful failure modes
+- Testing API connection issues and retries
+- Validating recovery mechanisms 

@@ -1,5 +1,5 @@
 """
-Configuration module for the Codeway AI Suite.
+Configuration module for the Daymenion AI Suite.
 
 This module contains shared settings and configuration for all the applications
 in the suite.

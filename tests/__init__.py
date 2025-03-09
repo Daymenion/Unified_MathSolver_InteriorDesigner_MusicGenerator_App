@@ -1,6 +1,6 @@
 """
-Test package for the Codeway AI Suite.
+Test package for the Daymenion AI Suite.
 
 This package contains comprehensive tests for all components of the
-Codeway AI Suite applications.
+Daymenion AI Suite applications.
 """ 

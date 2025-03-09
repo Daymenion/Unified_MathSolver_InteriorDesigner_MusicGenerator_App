@@ -1,5 +1,5 @@
 """
-Nerd AI frontend component for the Codeway AI Suite.
+Nerd AI frontend component for the Daymenion AI Suite.
 """
 
 import streamlit as st

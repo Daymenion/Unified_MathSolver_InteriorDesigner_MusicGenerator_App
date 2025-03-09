@@ -1,5 +1,5 @@
 """
-Comprehensive test script for Codeway AI Suite.
+Comprehensive test script for Daymenion AI Suite.
 This script verifies that all components of the three applications are functioning correctly:
 1. Nerd AI - Math Problem Solver
 2. Interior Design App - Room Style Transformer
@@ -52,7 +52,7 @@ logger.addHandler(console_handler)
 logger.addHandler(file_handler)
 
 # Log startup message
-logger.info(f"Starting Codeway AI Suite test, log file: {LOG_FILE}")
+logger.info(f"Starting Daymenion AI Suite test, log file: {LOG_FILE}")
 
 # Load environment variables
 load_dotenv()
@@ -880,7 +880,7 @@ def print_summary(passed, failed, results):
 
 def main():
     """Main function with command line arguments."""
-    parser = argparse.ArgumentParser(description="Test Codeway AI Suite components")
+    parser = argparse.ArgumentParser(description="Test Daymenion AI Suite components")
     parser.add_argument("--test", type=str, nargs="+", 
                          choices=["all", "environment", "openai_api", "utilities", 
                                  "nerd_ai_ocr", "nerd_ai_classification", "nerd_ai_solution", "nerd_ai_e2e", 

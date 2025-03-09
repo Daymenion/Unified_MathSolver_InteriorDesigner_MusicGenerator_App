@@ -1,5 +1,5 @@
 """
-Showcase script for demonstrating the Codeway AI Suite capabilities.
+Showcase script for demonstrating the Daymenion AI Suite capabilities.
 
 This script runs a demonstration of all three AI tools:
 1. Nerd AI: Math problem solver with image scanning capabilities
@@ -16,7 +16,7 @@ from datetime import datetime
 from typing import List, Dict, Any, Optional
 
 # Ensure the project root is in the Python path
-project_root = Path(__file__).parent.absolute()
+project_root = Path(__file__).parent.parent.absolute()
 if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 
@@ -32,13 +32,12 @@ try:
     from nerd_ai.solver import MathSolver
     from interior_design.style_transformer import StyleTransformer
     from music_generator.generator import MusicGenerator
-    from common.utils import create_directory
+    from common.utils import create_directory, save_output
 except ImportError as e:
-    logger.error(f"Import error: {str(e)}")
-    logger.error("Make sure your PYTHONPATH includes the project root directory")
-    logger.error("You can use the run.py script: 'python run.py showcase'")
+    logger.error(f"Error importing modules: {e}")
+    logger.error("Make sure you're running from the project root directory")
     sys.exit(1)
-
+    
 def setup_directories():
     """Ensure output directories exist."""
     os.makedirs("data/outputs/nerd_ai", exist_ok=True)
@@ -251,7 +250,7 @@ def showcase_music_generator():
 
 def main():
     """Run the complete showcase."""
-    logger.info("Starting Codeway AI Suite showcase...")
+    logger.info("Starting Daymenion AI Suite showcase...")
     
     # Setup directories
     setup_directories()

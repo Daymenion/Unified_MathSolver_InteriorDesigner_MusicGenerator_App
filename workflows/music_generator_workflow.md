@@ -19,6 +19,15 @@ The Music Generator App is an AI-powered tool that creates personalized song lyr
 │    User     │     │   Lyrics    │     │    Theme    │     │  Cover Art  │     │   Package   │
 │ Preferences │────▶│ Generation  │────▶│ Extraction  │────▶│ Generation  │────▶│  Assembly   │
 └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+       │                   ▲                   ▲                   ▲                   ▲
+       │                   │                   │                   │                   │
+       └───────────────────┴───────────────────┴───────────────────┴───────────────────┘
+                                         │
+                                         ▼
+                                   ┌──────────────┐
+                                   │ Error Handling │
+                                   │   & Recovery   │
+                                   └──────────────┘
 ```
 
 ## Detailed Workflow Steps
@@ -29,12 +38,20 @@ The Music Generator App is an AI-powered tool that creates personalized song lyr
 
 **Process**:
 - Collect and validate user inputs
+- Apply input sanitization and validation
+- Convert inputs to consistent format (e.g., title case)
+- Verify inputs against allowed values (supported genres, moods, etc.)
 - Format preferences for AI processing
 - Prepare context for lyric generation
 
-**Output**: Structured user preferences
+**Output**: Validated and structured user preferences
 
 **AI Model Used**: None (form processing)
+
+**Error Handling**:
+- Invalid inputs are detected and clear error messages are displayed
+- Default values are provided for optional fields
+- Input length limitations are enforced to prevent token overflows
 
 **Business Value**: Ensures personalized results that match user expectations, increasing satisfaction and engagement.
 
@@ -43,16 +60,24 @@ The Music Generator App is an AI-powered tool that creates personalized song lyr
 **Input**: Structured user preferences
 
 **Process**:
-- Construct specialized prompt incorporating all user preferences
-- Generate original lyrics with appropriate structure (verses, chorus, bridge)
-- Ensure thematic coherence and emotional resonance
-- Apply genre-appropriate language and metaphors
+- Formulate a detailed prompt with specific instructions for structure
+- Generate lyrics using AI model with appropriate parameters
+- Parse output to extract title, sections (verses, chorus, bridge)
+- Validate generated content for quality and completeness
+- Format lyrics into a structured song format
+- Retry with adjusted parameters if generation is incomplete
 
-**Output**: Complete, structured song lyrics
+**Output**: Structured song lyrics with title and sections
 
-**AI Model Used**: GPT-4o-mini
+**AI Model Used**: OpenAI GPT model for creative text generation
 
-**Business Value**: Creates unique, high-quality content that users can't easily get elsewhere, driving platform adoption and retention.
+**Error Handling**:
+- If lyrics generation fails, retry with adjusted parameters
+- If title extraction fails, generate a default title
+- If section parsing fails, return the complete text as a single section
+- Log detailed errors for analysis and improvement
+
+**Business Value**: Creates unique song lyrics matching user preferences, providing creative value and solving the "blank page" problem for aspiring songwriters.
 
 ### 3. Theme Extraction
 

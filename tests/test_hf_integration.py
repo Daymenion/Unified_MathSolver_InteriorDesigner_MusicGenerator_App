@@ -15,7 +15,7 @@ from io import BytesIO
 from datetime import datetime
 
 # Ensure the project root is in the Python path
-project_root = Path(__file__).parent.absolute()
+project_root = Path(__file__).parent.parent.absolute()
 if str(project_root) not in sys.path:
     sys.path.insert(0, str(project_root))
 

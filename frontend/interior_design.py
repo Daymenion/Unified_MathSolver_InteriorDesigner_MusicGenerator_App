@@ -1,5 +1,5 @@
 """
-Interior Design frontend component for the Codeway AI Suite.
+Interior Design frontend component for the Daymenion AI Suite.
 """
 
 import streamlit as st

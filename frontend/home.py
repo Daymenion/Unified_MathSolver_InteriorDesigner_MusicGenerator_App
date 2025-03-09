@@ -1,5 +1,5 @@
 """
-Home page for the Codeway AI Suite.
+Home page for the Daymenion AI Suite.
 
 This module renders the home page with general information about the suite.
 """
@@ -58,16 +58,16 @@ def safe_image_display(image_path, use_column_width=True, caption=None):
 
 def show():
     """
-    Render the home page for the Codeway AI Suite.
+    Render the home page for the Daymenion AI Suite.
     
     This page displays general information about the AI Suite and its components.
     """
-    st.title("Welcome to Codeway AI Suite")
+    st.title("Welcome to Daymenion AI Suite")
     
     st.markdown("""
     ## All-in-One AI Toolbox
     
-    The Codeway AI Suite offers three powerful AI tools to help you with various tasks:
+    The Daymenion AI Suite offers three powerful AI tools to help you with various tasks:
     
     1. **Nerd AI**: Take a photo of a math problem and get a step-by-step solution.
     
@@ -121,7 +121,7 @@ def show():
     
     # Footer
     st.markdown("---")
-    st.caption("Codeway AI Suite - Powered by advanced AI for everyday tasks")
+    st.caption("Daymenion AI Suite - Powered by advanced AI for everyday tasks")
 
 # For testing the module directly
 if __name__ == "__main__":

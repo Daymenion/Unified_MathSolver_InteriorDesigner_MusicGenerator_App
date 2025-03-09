@@ -1,5 +1,5 @@
 """
-Codeway AI Suite - A collection of AI-powered tools.
+Daymenion AI Suite - A collection of AI-powered tools.
 
 This package contains three main AI applications:
 1. Nerd AI: Math problem solver with image scanning capabilities
@@ -9,7 +9,7 @@ This package contains three main AI applications:
 
 # Version info
 __version__ = '1.0.0'
-__author__ = 'Codeway AI Team'
+__author__ = 'Daymenion'
 
 # Package initialization
 import os

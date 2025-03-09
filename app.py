@@ -1,5 +1,5 @@
 """
-Main application entry point for the Codeway AI Suite.
+Main application entry point for the Daymenion AI Suite.
 
 This application provides a Streamlit interface to three AI-powered tools:
 1. Nerd AI: Math problem solver with image scanning capabilities
@@ -64,7 +64,7 @@ with log_exceptions("importing_frontend_modules", "app"):
     
     # Configure page settings
     st.set_page_config(
-        page_title="Codeway AI Suite",
+        page_title="Daymenion AI Suite",
         page_icon="🧠",
         layout="wide",
         initial_sidebar_state="expanded",
@@ -81,7 +81,7 @@ with log_exceptions("importing_frontend_modules", "app"):
     }
 
     # Sidebar for navigation
-    st.sidebar.title("Codeway AI Suite")
+    st.sidebar.title("Daymenion AI Suite")
     
     # Safely load the logo with error handling
     with log_exceptions("loading_logo", "app"):

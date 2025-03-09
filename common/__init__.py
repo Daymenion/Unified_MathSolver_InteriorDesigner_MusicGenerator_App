@@ -1,5 +1,5 @@
 """
-Common utilities package for the Codeway AI Suite.
+Common utilities package for the Daymenion AI Suite.
 
 This package contains shared utilities, configuration, and services used
 across all applications in the suite.

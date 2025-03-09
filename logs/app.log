@@ -4985,3 +4985,307 @@ streamlit.runtime.scriptrunner.script_runner.StopException
 2025-03-09 20:50:14 - root - INFO - Rendering Nerd AI frontend
 2025-03-09 20:50:14 - root - DEBUG - Nerd AI frontend rendering complete
 2025-03-09 20:50:14 - root - INFO - Application initialization complete
+2025-03-09 21:53:56 - root - INFO - Logging system initialized
+2025-03-09 21:53:56 - root - INFO - Application starting
+2025-03-09 21:53:56 - root - INFO - Frontend modules imported successfully
+2025-03-09 21:53:56 - root - DEBUG - Streamlit page configured
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:53:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:53:57 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 21:53:57 - root - INFO - User selected page: Home
+2025-03-09 21:53:57 - root - DEBUG - Rendering page Home using show() method
+2025-03-09 21:53:57 - root - INFO - Application initialization complete
+2025-03-09 21:54:10 - root - INFO - Application starting
+2025-03-09 21:54:10 - root - INFO - Frontend modules imported successfully
+2025-03-09 21:54:10 - root - DEBUG - Streamlit page configured
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:54:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:54:10 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 21:54:10 - root - INFO - User selected page: Nerd AI
+2025-03-09 21:54:10 - root - DEBUG - Rendering page Nerd AI using show() method
+2025-03-09 21:54:10 - root - INFO - Rendering Nerd AI frontend
+2025-03-09 21:54:10 - root - DEBUG - Initializing MathSolver in session state
+2025-03-09 21:54:10 - root - INFO - Initializing MathSolver
+2025-03-09 21:54:10 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 21:54:10 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 21:54:10 - root - DEBUG - Supported math domains: algebra, calculus, geometry, statistics, trigonometry
+2025-03-09 21:54:10 - root - DEBUG - Nerd AI frontend rendering complete
+2025-03-09 21:54:10 - root - INFO - Application initialization complete
+2025-03-09 21:54:13 - root - INFO - Application starting
+2025-03-09 21:54:13 - root - INFO - Frontend modules imported successfully
+2025-03-09 21:54:13 - root - DEBUG - Streamlit page configured
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:54:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:54:13 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 21:54:13 - root - INFO - User selected page: Interior Design
+2025-03-09 21:54:13 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-09 21:54:13 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-09 21:54:13 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 21:54:13 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 21:54:13 - root - INFO - Application initialization complete
+2025-03-09 21:54:15 - root - INFO - Application starting
+2025-03-09 21:54:15 - root - INFO - Frontend modules imported successfully
+2025-03-09 21:54:15 - root - DEBUG - Streamlit page configured
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 21:54:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 21:54:15 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 21:54:15 - root - INFO - User selected page: Music Generator
+2025-03-09 21:54:15 - root - DEBUG - Rendering page Music Generator using show() method
+2025-03-09 21:54:15 - root - DEBUG - Initializing MusicGenerator in session state
+2025-03-09 21:54:15 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 21:54:15 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 21:54:16 - root - INFO - Application initialization complete
+2025-03-09 21:54:48 - root - INFO - Logging system initialized
+2025-03-09 21:54:48 - root - INFO - Initializing MathSolver
+2025-03-09 21:54:48 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 21:54:48 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 21:54:49 - root - DEBUG - Supported math domains: algebra, calculus, geometry, statistics, trigonometry
+2025-03-09 21:54:49 - showcase - INFO - Processing math problem: Q1.jpeg
+2025-03-09 21:54:49 - root - INFO - Starting complete math problem solving workflow
+2025-03-09 21:54:49 - root - DEBUG - Image preprocessing complete
+2025-03-09 21:54:49 - root - INFO - Extracting math problem using OCR
+2025-03-09 21:54:49 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 21:54:49 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001F9D7F3F0D0>
+2025-03-09 21:54:49 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001F9D6C57B60> server_hostname='api.openai.com' timeout=60
+2025-03-09 21:54:49 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001F9D7F3E350>
+2025-03-09 21:54:49 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 21:54:49 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 21:54:49 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 21:54:49 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 21:54:49 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 18:54:50 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'739'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_d07aa14138b62d42e480770d4d6df2c8'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=wD90Q0OQiE.NwbhDQ6dFqAr4xJUh4NDFNAVgyH598go-1741546490-1.0.1.1-FuxsPPeDamSF0Q4jv4OkkTMKHeCJj0M3x.tdXWUQlTHmSRHFqAD_datNQ.gTJGvz9qx13obzebns3jflLiVFoxCINN5IVDEp_ATSnN0B4MA; path=/; expires=Sun, 09-Mar-25 19:24:50 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=3toRyLG8s34ZTYevIoxcR9oE_zV.Hmu9MRc0WDkJKVY-1741546490320-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dcc8734f91d5ff-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 21:54:50 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 21:54:50 - root - DEBUG - Extracted text: \(\frac{4x}{6} = 2 + \frac{3x}{15}\)
+2025-03-09 21:54:50 - root - INFO - Identifying math problem type
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 21:54:50 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 18:54:50 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'195'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'192887'), (b'x-ratelimit-reset-requests', b'16.292s'), (b'x-ratelimit-reset-tokens', b'2.133s'), (b'x-request-id', b'req_443cfdc07f52cd6f19a15844ab13905e'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dcc87cbfc9d5ff-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 21:54:51 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 21:54:51 - root - INFO - Identified problem type: algebra
+2025-03-09 21:54:51 - root - INFO - Generating solution for algebra problem
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 21:54:51 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 18:54:54 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3156'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'194070'), (b'x-ratelimit-reset-requests', b'24.533s'), (b'x-ratelimit-reset-tokens', b'1.778s'), (b'x-request-id', b'req_2048e6caf2915da52409a551043ae102'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dcc87f3a08d5ff-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 21:54:54 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 21:54:54 - root - DEBUG - Generated solution code of length: 711
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 21:54:54 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 21:55:01 - httpcore.http11 - DEBUG - receive_response_headers.failed exception=KeyboardInterrupt()
+2025-03-09 21:55:01 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 21:55:01 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 21:55:01 - nerd_ai.solver - ERROR - Error during generating_explanation: 
+Traceback (most recent call last):
+  File "D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\nerd_ai\solver.py", line 132, in generate_solution
+    explanation = self.ai_service.generate_text(explanation_prompt, temperature=0.1)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\common\ai_service.py", line 117, in generate_text
+    response = self.http_client.post(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 1132, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 814, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 901, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 929, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 966, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 1002, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_transports\default.py", line 228, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\connection_pool.py", line 262, in handle_request
+    raise exc
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\connection_pool.py", line 245, in handle_request
+    response = connection.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 133, in handle_request
+    raise exc
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 111, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 176, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 212, in _receive_event
+    data = self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_backends\sync.py", line 126, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\ssl.py", line 1295, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\ssl.py", line 1168, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2025-03-09 21:59:47 - root - INFO - Logging system initialized
+2025-03-09 21:59:47 - root - INFO - Initializing MathSolver
+2025-03-09 21:59:47 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 21:59:47 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 21:59:48 - root - DEBUG - Supported math domains: algebra, calculus, geometry, statistics, trigonometry
+2025-03-09 21:59:48 - showcase - INFO - Processing math problem: Q1.jpeg
+2025-03-09 21:59:48 - root - INFO - Starting complete math problem solving workflow
+2025-03-09 21:59:48 - root - DEBUG - Image preprocessing complete
+2025-03-09 21:59:48 - root - INFO - Extracting math problem using OCR
+2025-03-09 21:59:48 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 21:59:48 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002803316E190>
+2025-03-09 21:59:48 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000028032E57B60> server_hostname='api.openai.com' timeout=60
+2025-03-09 21:59:48 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002803316DF50>
+2025-03-09 21:59:48 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 21:59:48 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 21:59:48 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 21:59:48 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 21:59:48 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 18:59:49 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'774'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_7969e17c02966507543a668b8bae062f'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=bwHPdaQ6n_Vmd9MYZRw5Bzn_Wx96g1u6GRHh6fCyV6g-1741546789-1.0.1.1-31hwTFDK1O1SiWwi6sVZ8h6XBNiTyTf3OEPASem6D78fu.8r.kr38Ss_RodoPHq62T7yl9KLRtBmdNsC8M7jFWS7Vy8ba8xobp9S5hbZaEE; path=/; expires=Sun, 09-Mar-25 19:29:49 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=QHK_jKa__pnnEbpG2o97aQde39TugQIn235RALIdUrc-1741546789097-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dccfc1eabfd5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 21:59:49 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 21:59:49 - root - DEBUG - Extracted text: \(\frac{4x}{6} = 2 + \frac{3x}{15}\)
+2025-03-09 21:59:49 - root - INFO - Identifying math problem type
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 18:59:49 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'159'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'192828'), (b'x-ratelimit-reset-requests', b'16.289s'), (b'x-ratelimit-reset-tokens', b'2.151s'), (b'x-request-id', b'req_edfd581dd6c3c9ea3ce426741cd96b6f'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dccfc81d9ad5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 21:59:49 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 21:59:49 - root - INFO - Identified problem type: algebra
+2025-03-09 21:59:49 - root - INFO - Generating solution for algebra problem
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 21:59:49 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 21:59:53 - httpcore.http11 - DEBUG - receive_response_headers.failed exception=KeyboardInterrupt()
+2025-03-09 21:59:53 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 21:59:53 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 21:59:53 - nerd_ai.solver - ERROR - Error during generating_solution_code: 
+Traceback (most recent call last):
+  File "D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\nerd_ai\solver.py", line 110, in generate_solution
+    solution_code = self.ai_service.generate_text(prompt, temperature=0.1)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\common\ai_service.py", line 117, in generate_text
+    response = self.http_client.post(
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 1132, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 814, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 901, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 929, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 966, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_client.py", line 1002, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpx\_transports\default.py", line 228, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\connection_pool.py", line 262, in handle_request
+    raise exc
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\connection_pool.py", line 245, in handle_request
+    response = connection.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 133, in handle_request
+    raise exc
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 111, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 176, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_sync\http11.py", line 212, in _receive_event
+    data = self._network_stream.read(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\site-packages\httpcore\_backends\sync.py", line 126, in read
+    return self._sock.recv(max_bytes)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\ssl.py", line 1295, in recv
+    return self.read(buflen)
+           ^^^^^^^^^^^^^^^^^
+  File "d:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\.conda\Lib\ssl.py", line 1168, in read
+    return self._sslobj.read(len)
+           ^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

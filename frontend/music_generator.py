@@ -1,5 +1,5 @@
 """
-Music Generator frontend component for the Codeway AI Suite.
+Music Generator frontend component for the Daymenion AI Suite.
 """
 
 import streamlit as st

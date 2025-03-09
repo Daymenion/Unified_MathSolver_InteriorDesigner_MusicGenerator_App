@@ -1,5 +1,5 @@
 """
-Logger module for the Codeway AI Suite.
+Logger module for the Daymenion AI Suite.
 
 This module provides a centralized logging system for the entire application.
 It supports console and file logging with configurable log levels and formats.
@@ -72,7 +72,7 @@ DEFAULT_LOG_SETTINGS = {
 
 class AppLogger:
     """
-    Centralized logging system for the Codeway AI Suite.
+    Centralized logging system for the Daymenion AI Suite.
     
     This class provides a singleton logger instance that can be used
     across the entire application, ensuring consistent logging behavior.

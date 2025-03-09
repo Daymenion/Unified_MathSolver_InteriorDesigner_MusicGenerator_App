@@ -1,5 +1,5 @@
 """
-Frontend package for the Codeway AI Suite.
+Frontend package for the Daymenion AI Suite.
 
 This package contains the Streamlit UI components for all three tools:
 1. Nerd AI: Math problem solver with image scanning capabilities

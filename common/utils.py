@@ -1,5 +1,5 @@
 """
-Utility functions shared across all applications in the Codeway AI Suite.
+Utility functions shared across all applications in the Daymenion AI Suite.
 """
 
 import os

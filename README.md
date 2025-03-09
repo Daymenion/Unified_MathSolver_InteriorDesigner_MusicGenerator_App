@@ -1,4 +1,4 @@
-# Codeway AI Suite
+# Daymenion AI Suite
 
 A unified application suite featuring three AI-powered tools:
 
@@ -15,10 +15,15 @@ ai_suite/
 ├── interior_design/     # Interior design application
 ├── music_generator/     # Music generation application
 ├── frontend/            # Streamlit UI components
-├── workflows/           # Business stakeholder workflow documentation
 ├── tests/               # Test suite for all components
+│   ├── test_suite.py    # Comprehensive test suite
+│   ├── showcase.py      # Demo of all three applications
+│   ├── test_hf_integration.py  # Hugging Face API integration tests
+│   └── run_tests.py     # Test runner script
+├── workflows/           # Business stakeholder workflow documentation
+├── data/                # Data directory for samples and outputs
 ├── app.py               # Main application entry point
-├── run_tests.py         # Test runner script
+├── run.py               # Command-line runner
 ├── requirements.txt     # Project dependencies
 └── README.md            # This file
 ```
@@ -27,8 +32,7 @@ ai_suite/
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/your-username/codeway-ai-suite.git
-   cd codeway-ai-suite
+   git clone https://github.com/Daymenion/Unified_MathSolver_InteriorDesign_MusicGenerator_App.git
    ```
 
 2. **Create a virtual environment**
@@ -60,78 +64,121 @@ ai_suite/
 
 6. **Run the application**
    ```
-   streamlit run app.py
+   python run.py app
    ```
 
 ## Features
 
 ### Nerd AI
 - Scan math problems using OCR
-- Solve various types of mathematical problems
-- Provide step-by-step explanations
+- Solve various types of mathematical problems (algebra, calculus, statistics, etc.)
+- Provide step-by-step explanations with properly formatted mathematical notation
+- Export solutions as formatted text
 
 ### Interior Design App
-- Transform room styles through AI
-- Support for multiple design styles (Modern, Soho, Gothic)
+- Transform room styles using AI image generation
+- Support for multiple design styles (Modern, Minimalist, Industrial, etc.)
 - Maintain original room layout while changing style elements
+- High-quality image transformations with configurable parameters
 
 ### Music Generator
 - Create personalized song lyrics based on genre, mood, and purpose
-- Generate matching cover art
-- Export lyrics and artwork
+- Generate matching cover art with customizable themes
+- Structured song output with verses, chorus, and other sections
+- Export lyrics and artwork in various formats
 
 ## Testing
 
-Run the test suite to verify all components are working correctly:
+The testing framework has been organized for better maintainability and organization:
+
+### Running Tests
+
+Run the comprehensive test suite:
 
 ```
-python run_tests.py
+python tests/run_tests.py
 ```
 
 To run specific tests:
 
 ```
-python run_tests.py --test openai_api nerd_ai_ocr
+python tests/run_tests.py --test openai_api nerd_ai_ocr
 ```
 
 To skip slow tests:
 
 ```
-python run_tests.py --skip-slow
+python tests/run_tests.py --skip-slow
 ```
 
-## Recent Updates
+### Available Tests
 
-### Version 1.1.0 (March 2025)
+- **Common Components**: `environment`, `openai_api`, `utilities`
+- **Nerd AI**: `nerd_ai_ocr`, `nerd_ai_classification`, `nerd_ai_solution`
+- **Interior Design**: `interior_room_detection`, `interior_prompt`, `interior_transform`
+- **Music Generator**: `music_lyrics`, `music_cover_art`, `music_package`
 
-- **OpenAI API Client Improvements**:
-  - Replaced the old OpenAI client with a more robust httpx-based implementation
-  - Added proper retry logic with exponential backoff
-  - Enhanced error handling and reporting
-  - Fixed proxy-related issues
+### Showcase Demo
 
-- **Code Structure Improvements**:
-  - Fixed import issues across all modules
-  - Standardized on absolute imports for better reliability
-  - Enhanced image validation to handle different file object types
-  - Improved test suite with better file handling
+Run the showcase demo to see all three applications in action:
 
-- **Dependencies**:
-  - Added httpx for more reliable API communication
-  - Updated requirements.txt with specific versions
+```
+python tests/showcase.py
+```
 
-## Technologies Used
+### Hugging Face API Integration Tests
 
-- **Frontend**: Streamlit
-- **Backend**: Python with FastAPI
-- **AI Models**: OpenAI GPT-4o-mini, Hugging Face models
-- **Image Processing**: Pillow, scikit-image
-- **Mathematical Libraries**: NumPy, SciPy, SymPy
-- **HTTP Client**: httpx
+Test the Hugging Face API integration for image generation:
 
-## Contributing
+```
+python tests/test_hf_integration.py
+```
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+## Workflows
+
+The application supports the following key workflows:
+
+1. **Nerd AI Workflow**:
+   - Upload a math problem image or enter text
+   - Problem is parsed using OCR (if image)
+   - Problem type is automatically identified
+   - Step-by-step solution is generated
+   - Solution is displayed with properly formatted math notation
+
+2. **Interior Design Workflow**:
+   - Upload a room image
+   - Select desired style transformation
+   - Room is analyzed and key elements are identified
+   - AI generates a transformation prompt
+   - Transformed image is generated maintaining the original layout
+
+3. **Music Generator Workflow**:
+   - Select music genre, mood, and purpose
+   - Add custom description (optional)
+   - AI generates structured lyrics with title, verses, and chorus
+   - Cover art is generated to match the song theme
+   - Download lyrics and cover art
+
+For detailed workflow documentation, see the `workflows/` directory.
+
+## Error Handling and Robustness
+
+The latest version includes improved error handling across all components:
+
+- Comprehensive input validation for all user inputs
+- Graceful failure modes with informative error messages
+- Fallback mechanisms when API services are unavailable
+- Automatic handling of edge cases in content generation
+
+## Future Development
+
+Planned enhancements for future versions:
+
+- Additional math problem types and solution methods
+- More interior design styles and room customization options
+- Advanced music generation features (melody, chords, etc.)
+- User accounts and saved project functionality
+- Mobile-friendly responsive design
 
 ## License
 
