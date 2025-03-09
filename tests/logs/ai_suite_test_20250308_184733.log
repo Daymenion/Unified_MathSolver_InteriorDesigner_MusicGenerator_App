@@ -1,0 +1,124 @@
+2025-03-08 18:47:33,516 - ai_suite_test - INFO - Starting Codeway AI Suite test, log file: D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\tests\logs\ai_suite_test_20250308_184733.log
+2025-03-08 18:47:33,522 - ai_suite_test - INFO - Running tests: all
+2025-03-08 18:47:33,522 - ai_suite_test - INFO - Skipping slow test: interior_transform
+2025-03-08 18:47:33,522 - ai_suite_test - INFO - Skipping slow test: music_e2e
+2025-03-08 18:47:33,522 - ai_suite_test - INFO - Skipping slow test: nerd_ai_e2e
+2025-03-08 18:47:33,522 - ai_suite_test - INFO - Skipping slow test: music_cover_art
+2025-03-08 18:47:33,524 - ai_suite_test - INFO - 
+========== Test: environment ==========
+2025-03-08 18:47:33,525 - ai_suite_test - INFO - Testing environment variables...
+2025-03-08 18:47:33,525 - ai_suite_test - INFO - All required environment variables are set
+2025-03-08 18:47:33,526 - ai_suite_test - INFO - Test 'environment': PASSED
+2025-03-08 18:47:33,527 - ai_suite_test - INFO - 
+========== Test: openai_api ==========
+2025-03-08 18:47:33,527 - ai_suite_test - INFO - Testing OpenAI API connectivity...
+2025-03-08 18:47:35,340 - ai_suite_test - INFO - OpenAI API connection successful (text generation)
+2025-03-08 18:47:35,341 - ai_suite_test - INFO - Response: Hello! Hope you're having a wonderful day!...
+2025-03-08 18:47:36,694 - ai_suite_test - INFO - OpenAI API connection successful (image analysis)
+2025-03-08 18:47:36,695 - ai_suite_test - INFO - Response: The image is a solid bright red color. There are n...
+2025-03-08 18:47:36,695 - ai_suite_test - INFO - Test 'openai_api': PASSED
+2025-03-08 18:47:36,695 - ai_suite_test - INFO - 
+========== Test: utilities ==========
+2025-03-08 18:47:36,695 - ai_suite_test - INFO - Testing common utilities...
+2025-03-08 18:47:36,700 - ai_suite_test - INFO - Common utilities test successful
+2025-03-08 18:47:36,700 - ai_suite_test - INFO - Test 'utilities': PASSED
+2025-03-08 18:47:36,701 - ai_suite_test - INFO - 
+========== Test: nerd_ai_ocr ==========
+2025-03-08 18:47:36,701 - ai_suite_test - INFO - Testing Nerd AI OCR...
+2025-03-08 18:47:39,187 - ai_suite_test - INFO - OCR extracted text: 2x + 5 = 15
+2025-03-08 18:47:39,187 - ai_suite_test - INFO - OCR test successful - found parts of the equation
+2025-03-08 18:47:39,187 - ai_suite_test - INFO - Test 'nerd_ai_ocr': PASSED
+2025-03-08 18:47:39,188 - ai_suite_test - INFO - 
+========== Test: nerd_ai_classification ==========
+2025-03-08 18:47:39,189 - ai_suite_test - INFO - Testing Nerd AI problem classification...
+2025-03-08 18:47:40,583 - ai_suite_test - INFO - Problem: Solve for x: 2x + 5 = 15
+2025-03-08 18:47:40,583 - ai_suite_test - INFO - Classified as: algebra
+2025-03-08 18:47:40,583 - ai_suite_test - INFO - Expected: algebra
+2025-03-08 18:47:40,584 - ai_suite_test - INFO - Classification successful
+2025-03-08 18:47:41,033 - ai_suite_test - INFO - Problem: Find the derivative of f(x) = x^2 + 3x
+2025-03-08 18:47:41,033 - ai_suite_test - INFO - Classified as: calculus
+2025-03-08 18:47:41,033 - ai_suite_test - INFO - Expected: calculus
+2025-03-08 18:47:41,033 - ai_suite_test - INFO - Classification successful
+2025-03-08 18:47:41,402 - ai_suite_test - INFO - Problem: Calculate the area of a circle with radius 5
+2025-03-08 18:47:41,403 - ai_suite_test - INFO - Classified as: geometry
+2025-03-08 18:47:41,404 - ai_suite_test - INFO - Expected: geometry
+2025-03-08 18:47:41,404 - ai_suite_test - INFO - Classification successful
+2025-03-08 18:47:41,750 - ai_suite_test - INFO - Problem: Find the mean of 4, 7, 9, 12, 15
+2025-03-08 18:47:41,750 - ai_suite_test - INFO - Classified as: statistics
+2025-03-08 18:47:41,750 - ai_suite_test - INFO - Expected: statistics
+2025-03-08 18:47:41,750 - ai_suite_test - INFO - Classification successful
+2025-03-08 18:47:41,750 - ai_suite_test - INFO - Problem classification success rate: 1.00 (4/4)
+2025-03-08 18:47:41,750 - ai_suite_test - INFO - Test 'nerd_ai_classification': PASSED
+2025-03-08 18:47:41,750 - ai_suite_test - INFO - 
+========== Test: nerd_ai_solution ==========
+2025-03-08 18:47:41,751 - ai_suite_test - INFO - Testing Nerd AI solution generation...
+2025-03-08 18:47:42,116 - ai_suite_test - INFO - Generating solution for: Solve for x: 2x + 5 = 15
+2025-03-08 18:47:50,259 - ai_suite_test - INFO - Solution generation successful
+2025-03-08 18:47:50,261 - ai_suite_test - INFO - Solution excerpt: Let's break down the provided Python code step-by-step to understand how it solves the algebra probl...
+2025-03-08 18:47:50,261 - ai_suite_test - INFO - Solution contains the correct answer
+2025-03-08 18:47:50,261 - ai_suite_test - INFO - Test 'nerd_ai_solution': PASSED
+2025-03-08 18:47:50,261 - ai_suite_test - INFO - 
+========== Test: interior_room_detection ==========
+2025-03-08 18:47:50,262 - ai_suite_test - INFO - Testing Interior Design room detection...
+2025-03-08 18:47:51,983 - ai_suite_test - INFO - Expected room type: Living Room
+2025-03-08 18:47:51,984 - ai_suite_test - INFO - Detected room type: Living Room
+2025-03-08 18:47:51,984 - ai_suite_test - INFO - Room detection successful
+2025-03-08 18:47:53,032 - ai_suite_test - INFO - Expected room type: Kitchen
+2025-03-08 18:47:53,032 - ai_suite_test - INFO - Detected room type: Kitchen
+2025-03-08 18:47:53,032 - ai_suite_test - INFO - Room detection successful
+2025-03-08 18:47:53,033 - ai_suite_test - INFO - Room detection success rate: 1.00 (2/2)
+2025-03-08 18:47:53,034 - ai_suite_test - INFO - Test 'interior_room_detection': PASSED
+2025-03-08 18:47:53,034 - ai_suite_test - INFO - 
+========== Test: interior_prompt ==========
+2025-03-08 18:47:53,034 - ai_suite_test - INFO - Testing Interior Design prompt generation...
+2025-03-08 18:47:53,424 - ai_suite_test - INFO - Room type: Living Room, Style: Modern
+2025-03-08 18:47:53,425 - ai_suite_test - INFO - Generated prompt: Transform this Living Room image into a Modern design style. Maintain the original layout, room dimensions, and positions of major furniture pieces. Focus on seating arrangements, coffee tables, wall decorations, and lighting fixtures. Adapt lighting, materials, colors, and decorative elements to match the Modern aesthetic. Use clean lines, minimalist furniture, neutral color palette with occasional bold accents, and incorporate materials like glass, metal, and polished surfaces.
+2025-03-08 18:47:53,425 - ai_suite_test - INFO - Prompt generation successful - contains all key elements
+2025-03-08 18:47:53,425 - ai_suite_test - INFO - Room type: Living Room, Style: Gothic
+2025-03-08 18:47:53,426 - ai_suite_test - INFO - Generated prompt: Transform this Living Room image into a Gothic design style. Maintain the original layout, room dimensions, and positions of major furniture pieces. Focus on seating arrangements, coffee tables, wall decorations, and lighting fixtures. Adapt lighting, materials, colors, and decorative elements to match the Gothic aesthetic. Use dark, rich colors (deep reds, purples, blacks), ornate furniture with carved details, dramatic lighting, stained glass elements, and pointed arches where possible.
+2025-03-08 18:47:53,427 - ai_suite_test - INFO - Prompt generation successful - contains all key elements
+2025-03-08 18:47:53,428 - ai_suite_test - INFO - Room type: Kitchen, Style: Soho
+2025-03-08 18:47:53,428 - ai_suite_test - INFO - Generated prompt: Transform this Kitchen image into a Soho design style. Maintain the original layout, room dimensions, and positions of major furniture pieces. Focus on countertops, cabinets, appliances, and kitchen island styling. Adapt lighting, materials, colors, and decorative elements to match the Soho aesthetic. Incorporate industrial elements, exposed brick or concrete, vintage furniture pieces, warm wood tones, and artistic decor items.
+2025-03-08 18:47:53,428 - ai_suite_test - INFO - Prompt generation successful - contains all key elements
+2025-03-08 18:47:53,429 - ai_suite_test - INFO - Test 'interior_prompt': PASSED
+2025-03-08 18:47:53,429 - ai_suite_test - INFO - 
+========== Test: music_lyrics ==========
+2025-03-08 18:47:53,430 - ai_suite_test - INFO - Testing Music Generator lyrics generation...
+2025-03-08 18:47:53,849 - ai_suite_test - INFO - Generating lyrics for Pop song with Happy mood...
+2025-03-08 18:48:00,419 - ai_suite_test - INFO - Lyrics generation successful
+2025-03-08 18:48:00,419 - ai_suite_test - INFO - Lyrics excerpt: **Title: "We Made It Shine"**
+
+**Verse 1:**  
+Woke up this morning, the sun's shining bright,  
+A li...
+2025-03-08 18:48:00,419 - ai_suite_test - INFO - Lyrics are properly structured with verses and chorus
+2025-03-08 18:48:00,419 - ai_suite_test - INFO - Test 'music_lyrics': PASSED
+2025-03-08 18:48:00,419 - ai_suite_test - INFO - 
+========== Test Summary ==========
+2025-03-08 18:48:00,419 - ai_suite_test - INFO - Total Tests: 9
+2025-03-08 18:48:00,421 - ai_suite_test - INFO - Passed: 9
+2025-03-08 18:48:00,421 - ai_suite_test - INFO - Failed: 0
+2025-03-08 18:48:00,421 - ai_suite_test - INFO - 
+Common Tests:
+2025-03-08 18:48:00,421 - ai_suite_test - INFO -   3/3 tests passed
+2025-03-08 18:48:00,421 - ai_suite_test - INFO -   environment: PASSED
+2025-03-08 18:48:00,421 - ai_suite_test - INFO -   openai_api: PASSED
+2025-03-08 18:48:00,421 - ai_suite_test - INFO -   utilities: PASSED
+2025-03-08 18:48:00,422 - ai_suite_test - INFO - 
+Nerd AI Tests:
+2025-03-08 18:48:00,422 - ai_suite_test - INFO -   3/3 tests passed
+2025-03-08 18:48:00,422 - ai_suite_test - INFO -   nerd_ai_ocr: PASSED
+2025-03-08 18:48:00,422 - ai_suite_test - INFO -   nerd_ai_classification: PASSED
+2025-03-08 18:48:00,422 - ai_suite_test - INFO -   nerd_ai_solution: PASSED
+2025-03-08 18:48:00,422 - ai_suite_test - INFO - 
+Interior Design Tests:
+2025-03-08 18:48:00,424 - ai_suite_test - INFO -   2/2 tests passed
+2025-03-08 18:48:00,424 - ai_suite_test - INFO -   interior_room_detection: PASSED
+2025-03-08 18:48:00,424 - ai_suite_test - INFO -   interior_prompt: PASSED
+2025-03-08 18:48:00,424 - ai_suite_test - INFO - 
+Music Generator Tests:
+2025-03-08 18:48:00,424 - ai_suite_test - INFO -   1/1 tests passed
+2025-03-08 18:48:00,424 - ai_suite_test - INFO -   music_lyrics: PASSED
+2025-03-08 18:48:00,426 - ai_suite_test - INFO - 
+Overall Result: PASSED
+2025-03-08 18:48:00,427 - ai_suite_test - INFO - Test suite completed. Check the log file for details.

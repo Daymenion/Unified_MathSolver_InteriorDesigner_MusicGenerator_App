@@ -1,0 +1,28 @@
+2025-03-08 21:21:57,367 - ai_suite_test - INFO - Starting Codeway AI Suite test, log file: D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\tests\logs\ai_suite_test_20250308_212157.log
+2025-03-08 21:21:57,371 - ai_suite_test - INFO - Running tests: environment
+2025-03-08 21:21:57,372 - ai_suite_test - INFO - 
+========== Test: environment ==========
+2025-03-08 21:21:57,372 - ai_suite_test - INFO - Testing environment variables...
+2025-03-08 21:21:57,372 - ai_suite_test - INFO - All required environment variables are set
+2025-03-08 21:21:57,372 - ai_suite_test - INFO - Test 'environment': PASSED
+2025-03-08 21:21:57,373 - ai_suite_test - INFO - 
+========== Test Summary ==========
+2025-03-08 21:21:57,373 - ai_suite_test - INFO - Total Tests: 1
+2025-03-08 21:21:57,373 - ai_suite_test - INFO - Passed: 1
+2025-03-08 21:21:57,373 - ai_suite_test - INFO - Failed: 0
+2025-03-08 21:21:57,373 - ai_suite_test - INFO - 
+Common Tests:
+2025-03-08 21:21:57,374 - ai_suite_test - INFO -   1/1 tests passed
+2025-03-08 21:21:57,374 - ai_suite_test - INFO -   environment: PASSED
+2025-03-08 21:21:57,375 - ai_suite_test - INFO - 
+Nerd AI Tests:
+2025-03-08 21:21:57,375 - ai_suite_test - INFO -   No tests run in this category
+2025-03-08 21:21:57,375 - ai_suite_test - INFO - 
+Interior Design Tests:
+2025-03-08 21:21:57,375 - ai_suite_test - INFO -   No tests run in this category
+2025-03-08 21:21:57,376 - ai_suite_test - INFO - 
+Music Generator Tests:
+2025-03-08 21:21:57,376 - ai_suite_test - INFO -   No tests run in this category
+2025-03-08 21:21:57,376 - ai_suite_test - INFO - 
+Overall Result: PASSED
+2025-03-08 21:21:57,376 - ai_suite_test - INFO - Test suite completed. Check the log file for details.
