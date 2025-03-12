@@ -1,0 +1,15 @@
+Room Type: Living Room
+Style: Industrial
+
+Transformation Prompt:
+Transform this living room into an Industrial-style interior while maintaining the basic room layout and general perspective. Replace the existing furniture with bold, rugged pieces: swap the sofa for a large, distressed leather sectional in deep brown, accompanied by a reclaimed wood coffee table with steel accents. Replace any armchairs with metal-framed, fabric-upholstered chairs featuring a worn, vintage look. 
+
+Revamp the walls with exposed brick in a dark, earthy tone, complemented by large, rough-hewn wooden beams across the ceiling. Remove any existing wallpaper or paint, opting instead for a raw, concrete finish on one wall to add a stark industrial contrast. 
+
+Change the flooring to wide-plank, weathered hardwood in a grayish tone or polished concrete to emphasize the raw feel. Replace standard windows with large, factory-style metal-framed windows with a black matte finish, allowing ample light while retaining a gritty aesthetic. Use simple, heavy-duty canvas drapes in charcoal gray or no window treatments at all for an open feel.
+
+Swap out all lighting fixtures for oversized, Edison bulb pendant lights with black iron shades, illuminating the space with a warm, inviting glow while emphasizing the industrial theme. 
+
+Decorative elements should include vintage metal signs, abstract metal sculptures, and large, monochromatic artworks featuring urban landscapes. Introduce accessories like a metal industrial cart for storage and potted succulents in old tin containers for a touch of greenery.
+
+Utilize a color palette of deep grays, rusty reds, and metallic accents, with dramatic, focused lighting that casts intriguing shadows, enhancing the industrial atmosphere and creating a strong visual contrast with the original room. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering

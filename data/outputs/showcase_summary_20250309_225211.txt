@@ -1,0 +1,47 @@
+DAYMENION AI SUITE SHOWCASE SUMMARY
+==================================
+
+Showcase run on: 2025-03-09 22:55:20
+
+NERD AI SUMMARY
+--------------
+Solutions file: data\outputs\nerd_ai\math_solutions_20250309_225211.txt
+
+INTERIOR DESIGN SUMMARY
+----------------------
+1. living-room-victorian.jpg transformed to Modern style
+   Output: data\outputs\interior_design\living-room-victorian_modern_20250309_225338.jpg
+   Prompt: data\outputs\interior_design\living-room-victorian_modern_20250309_225338_prompt.txt
+   Time taken: 18.74 seconds
+
+2. living-room-victorian.jpg transformed to Industrial style
+   Output: data\outputs\interior_design\living-room-victorian_industrial_20250309_225352.jpg
+   Prompt: data\outputs\interior_design\living-room-victorian_industrial_20250309_225352_prompt.txt
+   Time taken: 13.96 seconds
+
+3. living-room-victorian.jpg transformed to Scandinavian style
+   Output: data\outputs\interior_design\living-room-victorian_scandinavian_20250309_225409.jpg
+   Prompt: data\outputs\interior_design\living-room-victorian_scandinavian_20250309_225409_prompt.txt
+   Time taken: 17.13 seconds
+
+4. living-room-victorian.jpg transformed to Minimalist style
+   Output: data\outputs\interior_design\living-room-victorian_minimalist_20250309_225422.jpg
+   Prompt: data\outputs\interior_design\living-room-victorian_minimalist_20250309_225422_prompt.txt
+   Time taken: 13.12 seconds
+
+MUSIC GENERATOR SUMMARY
+----------------------
+1. Pop song with Happy mood
+   Title: Celebrate the Love
+   Purpose: For celebration
+   Lyrics: data\outputs\music\pop_happy_1_20250309_225443_lyrics.txt
+   Cover Art: data\outputs\music\pop_happy_1_20250309_225443_cover.jpg
+   Time taken: 21.18 seconds
+
+2. Rock song with Energetic mood
+   Title: "Eternal Celebration"
+   Purpose: For celebration
+   Lyrics: data\outputs\music\rock_energetic_2_20250309_225520_lyrics.txt
+   Cover Art: data\outputs\music\rock_energetic_2_20250309_225520_cover.jpg
+   Time taken: 36.44 seconds
+

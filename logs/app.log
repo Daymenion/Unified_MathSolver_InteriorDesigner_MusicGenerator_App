@@ -5289,3 +5289,1086 @@ Traceback (most recent call last):
     return self._sslobj.read(len)
            ^^^^^^^^^^^^^^^^^^^^^^
 KeyboardInterrupt
+2025-03-09 22:07:49 - root - INFO - Logging system initialized
+2025-03-09 22:07:49 - root - INFO - Application starting
+2025-03-09 22:07:49 - root - INFO - Frontend modules imported successfully
+2025-03-09 22:07:49 - root - DEBUG - Streamlit page configured
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:07:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:07:50 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 22:07:50 - root - INFO - User selected page: Home
+2025-03-09 22:07:50 - root - DEBUG - Rendering page Home using show() method
+2025-03-09 22:07:50 - root - INFO - Application initialization complete
+2025-03-09 22:07:53 - root - INFO - Application starting
+2025-03-09 22:07:53 - root - INFO - Frontend modules imported successfully
+2025-03-09 22:07:53 - root - DEBUG - Streamlit page configured
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:07:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:07:53 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 22:07:53 - root - INFO - User selected page: Nerd AI
+2025-03-09 22:07:53 - root - DEBUG - Rendering page Nerd AI using show() method
+2025-03-09 22:07:53 - root - INFO - Rendering Nerd AI frontend
+2025-03-09 22:07:53 - root - DEBUG - Initializing MathSolver in session state
+2025-03-09 22:07:53 - root - INFO - Initializing MathSolver
+2025-03-09 22:07:53 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:07:53 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:07:54 - root - DEBUG - Supported math domains: algebra, calculus, geometry, statistics, trigonometry
+2025-03-09 22:07:54 - root - DEBUG - Nerd AI frontend rendering complete
+2025-03-09 22:07:54 - root - INFO - Application initialization complete
+2025-03-09 22:08:10 - root - INFO - Application starting
+2025-03-09 22:08:10 - root - INFO - Frontend modules imported successfully
+2025-03-09 22:08:10 - root - DEBUG - Streamlit page configured
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:08:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:08:10 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 22:08:10 - root - INFO - User selected page: Nerd AI
+2025-03-09 22:08:10 - root - DEBUG - Rendering page Nerd AI using show() method
+2025-03-09 22:08:10 - root - INFO - Rendering Nerd AI frontend
+2025-03-09 22:08:10 - root - INFO - User uploaded file: Q1.jpeg
+2025-03-09 22:08:10 - root - DEBUG - Nerd AI frontend rendering complete
+2025-03-09 22:08:10 - root - INFO - Application initialization complete
+2025-03-09 22:08:11 - root - INFO - Application starting
+2025-03-09 22:08:11 - root - INFO - Frontend modules imported successfully
+2025-03-09 22:08:11 - root - DEBUG - Streamlit page configured
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-09 22:08:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-09 22:08:11 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-09 22:08:11 - root - INFO - User selected page: Nerd AI
+2025-03-09 22:08:11 - root - DEBUG - Rendering page Nerd AI using show() method
+2025-03-09 22:08:11 - root - INFO - Rendering Nerd AI frontend
+2025-03-09 22:08:11 - root - INFO - User uploaded file: Q1.jpeg
+2025-03-09 22:08:11 - root - INFO - User clicked 'Solve Problem' button
+2025-03-09 22:08:11 - root - DEBUG - Calling MathSolver.solve_from_image
+2025-03-09 22:08:11 - root - INFO - Starting complete math problem solving workflow
+2025-03-09 22:08:11 - root - DEBUG - Image preprocessing complete
+2025-03-09 22:08:11 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:08:11 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:08:11 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001E0D83B4850>
+2025-03-09 22:08:11 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001E0D854C440> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:08:11 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001E0D62F1B50>
+2025-03-09 22:08:11 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:08:11 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:08:11 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:08:11 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:08:11 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:08:54 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2088'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_c777f6f93acf9c03294bacb1dcfcc430'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=1FnuJLtfVrBLgZ1usCO3UkABYkg3FPPcc.xqf7.D6rE-1741547334-1.0.1.1-uByA.Bj7qxVnYMdptokVVihF6U6PIccF.2Of9mnhRDqfp2itKeoJJE2y6HeV084ZMkkwvf4YWGCratDUnJ2ltR5s3mg4BZvcONumYrE7TIw; path=/; expires=Sun, 09-Mar-25 19:38:54 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=_6UV11UdMhwgBcuKD0veEQEGqjCG9gUOHdjUtjmp6ww-1741547334424-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dcdc09c96fdb79-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:08:54 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:08:54 - root - DEBUG - Extracted text: \(\frac{4x}{6} = 2 + \frac{3x}{15}\)
+2025-03-09 22:08:54 - root - INFO - Identifying math problem type
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:08:54 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:08:54 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'248'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'192838'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'2.148s'), (b'x-request-id', b'req_c9ea38dcdd0f9be90a800a4de0a008dd'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dcdd1868c2db79-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:08:55 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:08:55 - root - INFO - Identified problem type: algebra
+2025-03-09 22:08:55 - root - INFO - Generating solution for algebra problem
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:08:55 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:08:58 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3304'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'194219'), (b'x-ratelimit-reset-requests', b'16.821s'), (b'x-ratelimit-reset-tokens', b'1.734s'), (b'x-request-id', b'req_1ecf477c64f995db648e4b6d4525bda1'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dcdd1b4d31db79-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:08:58 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:08:58 - root - DEBUG - Generated solution code of length: 709
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:08:58 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:09:06 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:09:06 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'7580'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'198767'), (b'x-ratelimit-reset-requests', b'21.955s'), (b'x-ratelimit-reset-tokens', b'369ms'), (b'x-request-id', b'req_1204a9d4f22af875b507cbaf808c2311'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dcdd313a02db79-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:09:06 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:09:06 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:09:06 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:09:06 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:09:06 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:09:06 - root - DEBUG - Generated explanation of length: 1345
+2025-03-09 22:09:06 - root - INFO - Solution generation complete
+2025-03-09 22:09:06 - root - INFO - Math problem solved successfully
+2025-03-09 22:09:06 - root - INFO - Problem solved successfully
+2025-03-09 22:09:06 - root - DEBUG - Nerd AI frontend rendering complete
+2025-03-09 22:09:06 - root - INFO - Application initialization complete
+2025-03-09 22:45:57 - root - INFO - Logging system initialized
+2025-03-09 22:45:57 - root - INFO - Initializing MathSolver
+2025-03-09 22:45:57 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:45:57 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:45:57 - root - DEBUG - Supported math domains: algebra, calculus, geometry, statistics, trigonometry
+2025-03-09 22:45:57 - showcase - INFO - Processing problem 1: Q1.jpeg
+2025-03-09 22:45:57 - showcase - ERROR - Error processing Q1.jpeg: 'MathSolver' object has no attribute 'extract_problem'
+2025-03-09 22:45:57 - showcase - INFO - Processing problem 2: Q2.jpeg
+2025-03-09 22:45:57 - showcase - ERROR - Error processing Q2.jpeg: 'MathSolver' object has no attribute 'extract_problem'
+2025-03-09 22:45:57 - showcase - INFO - Processing problem 3: Q3.jpeg
+2025-03-09 22:45:57 - showcase - ERROR - Error processing Q3.jpeg: 'MathSolver' object has no attribute 'extract_problem'
+2025-03-09 22:45:57 - showcase - INFO - Processing problem 4: Q4.jpeg
+2025-03-09 22:45:57 - showcase - ERROR - Error processing Q4.jpeg: 'MathSolver' object has no attribute 'extract_problem'
+2025-03-09 22:45:57 - showcase - INFO - Nerd AI showcase complete. Results saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\nerd_ai\math_solutions_20250309_224557.txt
+2025-03-09 22:45:57 - showcase - INFO - Running Interior Design showcase...
+2025-03-09 22:45:57 - showcase - INFO - 
+==================================================
+2025-03-09 22:45:57 - showcase - INFO - SHOWCASING INTERIOR DESIGN APP: STYLE TRANSFORMER
+2025-03-09 22:45:57 - showcase - INFO - ==================================================
+2025-03-09 22:45:57 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:45:57 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:45:58 - showcase - INFO - Transforming living-room-victorian.jpg to Modern style
+2025-03-09 22:45:58 - showcase - ERROR - Error transforming living-room-victorian.jpg to Modern style: 'StyleTransformer' object has no attribute 'transform_room'
+2025-03-09 22:45:58 - showcase - INFO - Transforming living-room-victorian.jpg to Industrial style
+2025-03-09 22:45:58 - showcase - ERROR - Error transforming living-room-victorian.jpg to Industrial style: 'StyleTransformer' object has no attribute 'transform_room'
+2025-03-09 22:45:58 - showcase - INFO - Transforming living-room-victorian.jpg to Scandinavian style
+2025-03-09 22:45:58 - showcase - ERROR - Error transforming living-room-victorian.jpg to Scandinavian style: 'StyleTransformer' object has no attribute 'transform_room'
+2025-03-09 22:45:58 - showcase - INFO - Transforming living-room-victorian.jpg to Minimalist style
+2025-03-09 22:45:58 - showcase - ERROR - Error transforming living-room-victorian.jpg to Minimalist style: 'StyleTransformer' object has no attribute 'transform_room'
+2025-03-09 22:45:58 - showcase - INFO - Interior Design showcase complete. Generated 0 transformations
+2025-03-09 22:45:58 - showcase - INFO - Running Music Generator showcase...
+2025-03-09 22:45:58 - showcase - INFO - 
+==================================================
+2025-03-09 22:45:58 - showcase - INFO - SHOWCASING MUSIC GENERATOR: LYRICS AND COVER ART
+2025-03-09 22:45:58 - showcase - INFO - ==================================================
+2025-03-09 22:45:58 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:45:58 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:45:58 - showcase - INFO - Generating Pop song with Happy mood for 'sample1'
+2025-03-09 22:45:58 - showcase - ERROR - Failed to generate song: Invalid purpose. Supported purposes: For celebration, For motivation, For my love, For reflection, For entertainment
+2025-03-09 22:45:58 - showcase - INFO - Generating Rock song with Energetic mood for 'sample1'
+2025-03-09 22:45:58 - showcase - ERROR - Failed to generate song: Invalid purpose. Supported purposes: For celebration, For motivation, For my love, For reflection, For entertainment
+2025-03-09 22:45:58 - showcase - INFO - Music Generator showcase complete. Generated 0 songs
+2025-03-09 22:45:58 - showcase - INFO - Showcase complete! Summary saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\showcase_summary_20250309_224557.txt
+2025-03-09 22:47:18 - root - INFO - Logging system initialized
+2025-03-09 22:47:18 - root - INFO - Initializing MathSolver
+2025-03-09 22:47:18 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:47:18 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:47:18 - root - DEBUG - Supported math domains: algebra, calculus, geometry, statistics, trigonometry
+2025-03-09 22:47:18 - showcase - INFO - Processing problem 1: Q1.jpeg
+2025-03-09 22:47:18 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:47:18 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:47:18 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA796110>
+2025-03-09 22:47:18 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001D9CA463E30> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:47:18 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA795F50>
+2025-03-09 22:47:18 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:18 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:18 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:18 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:18 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:47:19 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1170'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_740baef47940b726f910c230c0695a41'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=y2Ox05.oKQVPKNdjCzQCSlGLzzWT9yg4x8IcIveTM5s-1741549639-1.0.1.1-PeXKJxMJ35kKPf_LRnHLc5f_uEKhD5GfMw5TirfQRcAyOdkHUBAbA5ELXWeCyAvgsH6Q9xKTB0ek5MDh4UlgJFXuR9Zis5iH_drtaf7uKC4; path=/; expires=Sun, 09-Mar-25 20:17:19 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=bWSnr9v7tqo2q3WOfDhAHCsBl_UPZL9WKvWuvP4cAU0-1741549639826-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd15572dc2db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:47:20 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:47:20 - root - DEBUG - Extracted text: \(\frac{4x}{6} = 2 + \frac{3x}{15}\)
+2025-03-09 22:47:20 - root - INFO - Identifying math problem type
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:47:20 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'156'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'192819'), (b'x-ratelimit-reset-requests', b'15.892s'), (b'x-ratelimit-reset-tokens', b'2.154s'), (b'x-request-id', b'req_10004063dc250c19132a44f989bea6d5'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd15612881db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:47:20 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:47:20 - root - INFO - Identified problem type: algebra
+2025-03-09 22:47:20 - root - INFO - Generating solution for algebra problem
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:20 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:47:35 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'15323'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'193870'), (b'x-ratelimit-reset-requests', b'24.172s'), (b'x-ratelimit-reset-tokens', b'1.838s'), (b'x-request-id', b'req_5e46be87c03f9350f731bdb5ad296a90'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd15635fe3db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:47:36 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:47:36 - root - DEBUG - Generated solution code of length: 975
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:36 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:47:43 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'7108'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'198766'), (b'x-ratelimit-reset-requests', b'17.276s'), (b'x-ratelimit-reset-tokens', b'369ms'), (b'x-request-id', b'req_bc44e92526827cd948ef19f2988b5f2d'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd15c47ec8db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:47:43 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:47:43 - root - DEBUG - Generated explanation of length: 1245
+2025-03-09 22:47:43 - root - INFO - Solution generation complete
+2025-03-09 22:47:43 - showcase - ERROR - Error processing Q1.jpeg: 'solution'
+2025-03-09 22:47:43 - showcase - INFO - Processing problem 2: Q2.jpeg
+2025-03-09 22:47:43 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:43 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:47:45 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1857'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'18.6s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_a79edec2c5212044cff94204f8c12d00'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd15f22a55db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:47:45 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:47:45 - root - DEBUG - Extracted text: \(\int_{3}^{\infty} \frac{1}{(x - 2)^{3}} \, dx\)
+2025-03-09 22:47:45 - root - INFO - Identifying math problem type
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:47:45 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'222'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'192801'), (b'x-ratelimit-reset-requests', b'25.171s'), (b'x-ratelimit-reset-tokens', b'2.159s'), (b'x-request-id', b'req_6eff1be807ac9662819d6b62d0949d49'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd15ff2fccdb6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:47:45 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:47:45 - root - INFO - Identified problem type: calculus
+2025-03-09 22:47:45 - root - INFO - Generating solution for calculus problem
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:45 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:47:48 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2879'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9996'), (b'x-ratelimit-remaining-tokens', b'194078'), (b'x-ratelimit-reset-requests', b'33.381s'), (b'x-ratelimit-reset-tokens', b'1.776s'), (b'x-request-id', b'req_0e413c9d3c96af87dc06bc0a283095d7'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1601d9dadb6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:47:48 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:47:48 - root - DEBUG - Generated solution code of length: 846
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:47:48 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:04 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'15320'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9995'), (b'x-ratelimit-remaining-tokens', b'198762'), (b'x-ratelimit-reset-requests', b'38.94s'), (b'x-ratelimit-reset-tokens', b'371ms'), (b'x-request-id', b'req_3984f450d5047ea62b3d6d2e6f1fad86'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd161508b5db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:04 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:04 - root - DEBUG - Generated explanation of length: 1768
+2025-03-09 22:48:04 - root - INFO - Solution generation complete
+2025-03-09 22:48:04 - showcase - ERROR - Error processing Q2.jpeg: 'solution'
+2025-03-09 22:48:04 - showcase - INFO - Processing problem 3: Q3.jpeg
+2025-03-09 22:48:04 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:04 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:06 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1670'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9996'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'32.054s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_b4004559508ee187b4f245ab4a4d54d3'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd16761eeadb6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:06 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:06 - root - DEBUG - Extracted text: \[
+\lim_{x \to 3} \frac{x - 3}{\sqrt{x} - \sqrt{3}}
+\]
+2025-03-09 22:48:06 - root - INFO - Identifying math problem type
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:06 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'232'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9995'), (b'x-ratelimit-remaining-tokens', b'192798'), (b'x-ratelimit-reset-requests', b'38.818s'), (b'x-ratelimit-reset-tokens', b'2.16s'), (b'x-request-id', b'req_290299be7f5339ef28ff6c37b109e204'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1681d868db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:06 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:06 - root - INFO - Identified problem type: calculus
+2025-03-09 22:48:06 - root - INFO - Generating solution for calculus problem
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:06 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:09 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2751'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9994'), (b'x-ratelimit-remaining-tokens', b'194076'), (b'x-ratelimit-reset-requests', b'47.028s'), (b'x-ratelimit-reset-tokens', b'1.777s'), (b'x-request-id', b'req_5f24096420e7072c50fdcd9d2d41b211'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd168488fcdb6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:09 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:09 - root - DEBUG - Generated solution code of length: 575
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:09 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:17 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'8375'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9993'), (b'x-ratelimit-remaining-tokens', b'198762'), (b'x-ratelimit-reset-requests', b'52.709s'), (b'x-ratelimit-reset-tokens', b'371ms'), (b'x-request-id', b'req_e2da193c15c4c59d8c3776c36ce3f05d'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd16970970db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:18 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:18 - root - DEBUG - Generated explanation of length: 1551
+2025-03-09 22:48:18 - root - INFO - Solution generation complete
+2025-03-09 22:48:18 - showcase - ERROR - Error processing Q3.jpeg: 'solution'
+2025-03-09 22:48:18 - showcase - INFO - Processing problem 4: Q4.jpeg
+2025-03-09 22:48:18 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:18 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:19 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1108'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9993'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'52.769s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_323c90f5a466e9abd7f603693ef57b08'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd16cc987bdb6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:19 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:19 - root - DEBUG - Extracted text: 6x - 3 = 51  
+8x + 1 = 3x + 26  
+4(x + 10) = 3x + 47  
+2025-03-09 22:48:19 - root - INFO - Identifying math problem type
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:19 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:19 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'207'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9993'), (b'x-ratelimit-remaining-tokens', b'192818'), (b'x-ratelimit-reset-requests', b'1m0.083s'), (b'x-ratelimit-reset-tokens', b'2.154s'), (b'x-request-id', b'req_54a6ae0c16147d828029d79caa19eeb9'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd16d4eb13db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:20 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:20 - root - INFO - Identified problem type: algebra
+2025-03-09 22:48:20 - root - INFO - Generating solution for algebra problem
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:20 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:27 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'7739'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'194099'), (b'x-ratelimit-reset-requests', b'1m8.29s'), (b'x-ratelimit-reset-tokens', b'1.77s'), (b'x-request-id', b'req_b0cc8e82864422757fed9270e8b6f19b'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd16d77b60db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:28 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:28 - root - DEBUG - Generated solution code of length: 1153
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:28 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:37 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:37 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'8117'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'198762'), (b'x-ratelimit-reset-requests', b'1m8.973s'), (b'x-ratelimit-reset-tokens', b'371ms'), (b'x-request-id', b'req_e3fd33d8cf1a28d78c0c08eca72612ca'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd17096eeedb6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:37 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:37 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:37 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:37 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:37 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:37 - root - DEBUG - Generated explanation of length: 1846
+2025-03-09 22:48:37 - root - INFO - Solution generation complete
+2025-03-09 22:48:37 - showcase - ERROR - Error processing Q4.jpeg: 'solution'
+2025-03-09 22:48:37 - showcase - INFO - Nerd AI showcase complete. Results saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\nerd_ai\math_solutions_20250309_224718.txt
+2025-03-09 22:48:37 - showcase - INFO - Running Interior Design showcase...
+2025-03-09 22:48:37 - showcase - INFO - 
+==================================================
+2025-03-09 22:48:37 - showcase - INFO - SHOWCASING INTERIOR DESIGN APP: STYLE TRANSFORMER
+2025-03-09 22:48:37 - showcase - INFO - ==================================================
+2025-03-09 22:48:37 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:48:37 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:48:37 - showcase - INFO - Transforming living-room-victorian.jpg to Modern style
+2025-03-09 22:48:38 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:48:38 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA785BD0>
+2025-03-09 22:48:38 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001D9CA6A0E60> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:48:38 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA786B10>
+2025-03-09 22:48:38 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:38 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:38 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:38 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:38 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:41 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3091'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'198197'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m7.29s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_687a225e2aa72d4c547e2138adbe3e13'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=fJiWozahvnQW3KHR6INOMCnMj_jxct.uf0Z6SyHpiWs-1741549721-1.0.1.1-jUlmtO.cyMORjd1C0I7jKZwuZjbz9y1y_xC58dv50Icm61C7bbtTUj.OIVQ0cBj5LJkS8kJ7_qZROhnPEtSUvIuYgpYSyCmZaPfJsrON0s8; path=/; expires=Sun, 09-Mar-25 20:18:41 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=oSWhIckwm8bKdy12Gcn9APXS2XXS4evAZBFjA6qNKOI-1741549721536-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd17489e0d514e-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:41 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:41 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:47 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:47 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5459'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'175433'), (b'x-ratelimit-reset-requests', b'1m12.421s'), (b'x-ratelimit-reset-tokens', b'7.369s'), (b'x-request-id', b'req_5aa5b6103f2e5d8901cda0b9f0d21681'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd175fde53514e-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:47 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:47 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:47 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:47 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:47 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:47 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-inference.huggingface.co:443
+2025-03-09 22:48:52 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:48:53 - showcase - INFO - Transformed living-room-victorian.jpg to Modern style in 15.15 seconds
+2025-03-09 22:48:53 - showcase - INFO - Transforming living-room-victorian.jpg to Industrial style
+2025-03-09 22:48:53 - httpcore.connection - DEBUG - close.started
+2025-03-09 22:48:53 - httpcore.connection - DEBUG - close.complete
+2025-03-09 22:48:53 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:48:53 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA718210>
+2025-03-09 22:48:53 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001D9CA6A0E60> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:48:53 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA7182D0>
+2025-03-09 22:48:53 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:53 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:53 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:53 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:53 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:48:55 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1366'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'198197'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m9.175s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_abe146b6feae8bd4dc9a4b7ba848ad70'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd17a72b36db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:48:55 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:48:55 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:00 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:49:00 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5319'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'175571'), (b'x-ratelimit-reset-requests', b'1m16.103s'), (b'x-ratelimit-reset-tokens', b'7.328s'), (b'x-request-id', b'req_7c22e142a9f361fa105a5b924d5835f5'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd17b4ce89db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:49:00 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:49:00 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:49:00 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:49:00 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:49:00 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:49:05 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:49:05 - showcase - INFO - Transformed living-room-victorian.jpg to Industrial style in 12.37 seconds
+2025-03-09 22:49:05 - showcase - INFO - Transforming living-room-victorian.jpg to Scandinavian style
+2025-03-09 22:49:05 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:05 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:49:05 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:49:05 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:49:05 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:49:07 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1561'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'198196'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m14.353s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_69a97100cde881b00e1c06f4285c742e'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd17f3eed2db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:49:07 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:49:07 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:14 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:49:14 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'6368'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'175652'), (b'x-ratelimit-reset-requests', b'1m21.069s'), (b'x-ratelimit-reset-tokens', b'7.304s'), (b'x-request-id', b'req_d219e96199ea6cf706cc1a07f6dd722e'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd18015f34db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:49:14 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:49:14 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:49:14 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:49:14 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:49:14 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:49:35 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:49:35 - showcase - INFO - Transformed living-room-victorian.jpg to Scandinavian style in 30.39 seconds
+2025-03-09 22:49:35 - showcase - INFO - Transforming living-room-victorian.jpg to Minimalist style
+2025-03-09 22:49:35 - httpcore.connection - DEBUG - close.started
+2025-03-09 22:49:35 - httpcore.connection - DEBUG - close.complete
+2025-03-09 22:49:35 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:49:35 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA70A010>
+2025-03-09 22:49:35 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001D9CA6A0E60> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:49:36 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA709E10>
+2025-03-09 22:49:36 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:36 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:49:36 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:49:36 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:49:36 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:49:37 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1299'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'198197'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m1.261s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_afb4ef84f762b5d3827bdb0562ab55a8'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd18b24a07db6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:49:37 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:49:37 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:45 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:49:45 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'7968'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'175427'), (b'x-ratelimit-reset-requests', b'1m8.292s'), (b'x-ratelimit-reset-tokens', b'7.371s'), (b'x-request-id', b'req_9ec5ecfd4b8abb4bd1c9f27c67a5e76e'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd18bd9acbdb6d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:49:45 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:49:45 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:49:45 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:49:45 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:49:45 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:49:50 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:49:50 - showcase - INFO - Transformed living-room-victorian.jpg to Minimalist style in 14.42 seconds
+2025-03-09 22:49:50 - showcase - INFO - Interior Design showcase complete. Generated 4 transformations
+2025-03-09 22:49:50 - showcase - INFO - Running Music Generator showcase...
+2025-03-09 22:49:50 - showcase - INFO - 
+==================================================
+2025-03-09 22:49:50 - showcase - INFO - SHOWCASING MUSIC GENERATOR: LYRICS AND COVER ART
+2025-03-09 22:49:50 - showcase - INFO - ==================================================
+2025-03-09 22:49:50 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:49:50 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:49:50 - showcase - INFO - Generating Pop song with Happy mood for 'For celebration'
+2025-03-09 22:49:50 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:49:50 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA70A0D0>
+2025-03-09 22:49:50 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001D9CA6A1A30> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:49:50 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA708190>
+2025-03-09 22:49:50 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:49:50 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:49:50 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:49:50 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:49:50 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:49:59 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'9073'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'198345'), (b'x-ratelimit-reset-requests', b'1m3.953s'), (b'x-ratelimit-reset-tokens', b'496ms'), (b'x-request-id', b'req_f15a434041b3efd6f90ba0c9c758594d'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=O5ZSa2P1yfWlN.V_aAvg._VgqMZC5BlNkNJOjPADH30-1741549799-1.0.1.1-MJkC30aumh1Pvdi7.jNFQBg1IGcyO_X6Y3U6Hlh93pz56EtgPTpq4MLZW46_w4iNlm.R_P_AaBxFJPGfGl4Ou89dvTi0aTZyXfU8XY7QAEA; path=/; expires=Sun, 09-Mar-25 20:19:59 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=O.1o0yioGLCUUKF75TBqks.bQHqYFBnbzypB6k1Me9g-1741549799775-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd190ead77db67-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:50:00 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:50:00 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:50:01 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1149'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'199393'), (b'x-ratelimit-reset-requests', b'1m3.29s'), (b'x-ratelimit-reset-tokens', b'181ms'), (b'x-request-id', b'req_4f95ad591939038cc7f9acb93ce471e9'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1948cf81db67-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:50:01 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:50:01 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:04 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:50:03 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2340'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'198633'), (b'x-ratelimit-reset-requests', b'1m10.557s'), (b'x-ratelimit-reset-tokens', b'409ms'), (b'x-request-id', b'req_38a17990a74cb84aa309a98d7978275d'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd19516cdadb67-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:50:04 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:50:04 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:50:04 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:50:04 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:50:04 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:50:17 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-base-1.0 HTTP/1.1" 200 None
+2025-03-09 22:50:17 - showcase - INFO - Generated Pop song '"Forever in the Sunshine"' in 26.69 seconds
+2025-03-09 22:50:17 - showcase - INFO - Lyrics saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\pop_happy_1_20250309_225017_lyrics.txt
+2025-03-09 22:50:17 - showcase - INFO - Cover art saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\pop_happy_1_20250309_225017_cover.jpg
+2025-03-09 22:50:17 - showcase - INFO - Generating Rock song with Energetic mood for 'For celebration'
+2025-03-09 22:50:17 - httpcore.connection - DEBUG - close.started
+2025-03-09 22:50:17 - httpcore.connection - DEBUG - close.complete
+2025-03-09 22:50:17 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:50:17 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA700550>
+2025-03-09 22:50:17 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001D9CA6A1A30> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:50:17 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001D9CA700C10>
+2025-03-09 22:50:17 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:17 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:50:17 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:50:17 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:50:17 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:50:20 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3085'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'198343'), (b'x-ratelimit-reset-requests', b'1m3.137s'), (b'x-ratelimit-reset-tokens', b'496ms'), (b'x-request-id', b'req_bfe11a41194cde5f0ef5e6b23ea0c346'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd19b5da0adb85-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:50:20 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:50:20 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:21 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:50:21 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'980'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'199552'), (b'x-ratelimit-reset-requests', b'1m8.495s'), (b'x-ratelimit-reset-tokens', b'134ms'), (b'x-request-id', b'req_2b961b4f2f9995064998e677c8af8c41'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd19ca6d54db85-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:50:22 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:50:22 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:50:25 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:50:25 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3512'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'198637'), (b'x-ratelimit-reset-requests', b'1m15.941s'), (b'x-ratelimit-reset-tokens', b'408ms'), (b'x-request-id', b'req_7af3e0fd2e950a4f0ec0b63ce5b06db7'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd19d1b9f8db85-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:50:25 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:50:25 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:50:25 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:50:25 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:50:25 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:50:48 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-base-1.0 HTTP/1.1" 200 None
+2025-03-09 22:50:48 - showcase - INFO - Generated Rock song 'Celebrate the Love' in 31.32 seconds
+2025-03-09 22:50:48 - showcase - INFO - Lyrics saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\rock_energetic_2_20250309_225048_lyrics.txt
+2025-03-09 22:50:48 - showcase - INFO - Cover art saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\rock_energetic_2_20250309_225048_cover.jpg
+2025-03-09 22:50:48 - showcase - INFO - Music Generator showcase complete. Generated 2 songs
+2025-03-09 22:50:48 - showcase - INFO - Showcase complete! Summary saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\showcase_summary_20250309_224717.txt
+2025-03-09 22:52:11 - root - INFO - Logging system initialized
+2025-03-09 22:52:11 - root - INFO - Initializing MathSolver
+2025-03-09 22:52:11 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:52:11 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:52:11 - root - DEBUG - Supported math domains: algebra, calculus, geometry, statistics, trigonometry
+2025-03-09 22:52:11 - showcase - INFO - Processing problem 1: Q1.jpeg
+2025-03-09 22:52:11 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:52:11 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:52:12 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A205DD0>
+2025-03-09 22:52:12 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000022949ED3E30> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:52:12 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A205C10>
+2025-03-09 22:52:12 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:12 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:12 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:12 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:12 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:12 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'825'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_7775bb5802dbd52bccac37f7999fad6a'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=AspZyoTRevEegI0uSFMjmJV.J926K9wWpR7uFyBRTx8-1741549932-1.0.1.1-A_V65dnJtEUS1UDKEH.8pvIDUwBOc3vMNkN1ITZ6s8JzkqaC.NPy0HEPE4AD2wGNn7_G7UFmoaWTpjPnRV62XVhL4zgARqxroODCfCeIMDM; path=/; expires=Sun, 09-Mar-25 20:22:12 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=yRgroFpccLNWV_WKmS2UFk9_s8pGyCjfa00Ucc0umBY-1741549932830-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1c81db59db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:13 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:13 - root - DEBUG - Extracted text: \(\frac{4x}{6} = 2 + \frac{3x}{15}\)
+2025-03-09 22:52:13 - root - INFO - Identifying math problem type
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:13 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'189'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'192851'), (b'x-ratelimit-reset-requests', b'16.227s'), (b'x-ratelimit-reset-tokens', b'2.144s'), (b'x-request-id', b'req_c1b57f2c6af6d2c77d99758b3220ddf5'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1c886b51db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:13 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:13 - root - INFO - Identified problem type: algebra
+2025-03-09 22:52:13 - root - INFO - Generating solution for algebra problem
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:13 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:17 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3683'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'193997'), (b'x-ratelimit-reset-requests', b'24.479s'), (b'x-ratelimit-reset-tokens', b'1.8s'), (b'x-request-id', b'req_deec54fe167abb17c6da93718a2cbf09'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1c8adb8edb6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:17 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:17 - root - DEBUG - Generated solution code of length: 915
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:17 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:23 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5891'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9996'), (b'x-ratelimit-remaining-tokens', b'198767'), (b'x-ratelimit-reset-requests', b'29.213s'), (b'x-ratelimit-reset-tokens', b'369ms'), (b'x-request-id', b'req_8cabad60619942152543941c2ae8a97c'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1ca33acbdb6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:23 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:23 - root - DEBUG - Generated explanation of length: 1264
+2025-03-09 22:52:23 - root - INFO - Solution generation complete
+2025-03-09 22:52:23 - showcase - INFO - Solved problem 1 (algebra) in 11.59 seconds
+2025-03-09 22:52:23 - showcase - INFO - Processing problem 2: Q2.jpeg
+2025-03-09 22:52:23 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:23 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:24 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'934'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9996'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'31.734s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_ae1e8ae73373081971c31b0dccb44dce'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1cc96f20db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:24 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:24 - root - DEBUG - Extracted text: \[
+\int_{3}^{\infty} \frac{1}{(x - 2)^{3}} \, dx
+\]
+2025-03-09 22:52:24 - root - INFO - Identifying math problem type
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:24 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:25 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'558'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9995'), (b'x-ratelimit-remaining-tokens', b'192757'), (b'x-ratelimit-reset-requests', b'39.246s'), (b'x-ratelimit-reset-tokens', b'2.172s'), (b'x-request-id', b'req_b59b8c545b950d2be9da43807ad03fba'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1cd0b8b4db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:25 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:25 - root - INFO - Identified problem type: calculus
+2025-03-09 22:52:25 - root - INFO - Generating solution for calculus problem
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:25 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:30 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5121'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9994'), (b'x-ratelimit-remaining-tokens', b'195248'), (b'x-ratelimit-reset-requests', b'47.092s'), (b'x-ratelimit-reset-tokens', b'1.425s'), (b'x-request-id', b'req_4fcee802d54abe08293d720ffa6f2a1e'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1cd58f92db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:30 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:30 - root - DEBUG - Generated solution code of length: 817
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:30 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:42 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'11508'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9994'), (b'x-ratelimit-remaining-tokens', b'198762'), (b'x-ratelimit-reset-requests', b'50.382s'), (b'x-ratelimit-reset-tokens', b'371ms'), (b'x-request-id', b'req_01bf5ac9c530e30d5c441d89c8bd0edd'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1cf6f975db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:42 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:42 - root - DEBUG - Generated explanation of length: 1707
+2025-03-09 22:52:42 - root - INFO - Solution generation complete
+2025-03-09 22:52:42 - showcase - INFO - Solved problem 2 (calculus) in 19.00 seconds
+2025-03-09 22:52:42 - showcase - INFO - Processing problem 3: Q3.jpeg
+2025-03-09 22:52:42 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:42 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:44 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2278'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9994'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'47.273s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_c006c16f852d4fb33a5bc8189a06c86d'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1d403e8cdb6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:45 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:45 - root - DEBUG - Extracted text: \[
+\lim_{x \to 3} \frac{x - 3}{\sqrt{x} - \sqrt{3}}
+\]
+2025-03-09 22:52:45 - root - INFO - Identifying math problem type
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:45 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:45 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'286'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9993'), (b'x-ratelimit-remaining-tokens', b'192811'), (b'x-ratelimit-reset-requests', b'53.412s'), (b'x-ratelimit-reset-tokens', b'2.156s'), (b'x-request-id', b'req_452578f75cdde4eee17b2ade74b3eb9c'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1d500854db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:46 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:46 - root - INFO - Identified problem type: calculus
+2025-03-09 22:52:46 - root - INFO - Generating solution for calculus problem
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:46 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:47 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1872'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'196180'), (b'x-ratelimit-reset-requests', b'1m0.995s'), (b'x-ratelimit-reset-tokens', b'1.145s'), (b'x-request-id', b'req_6303886884a1ed8f7acf1c86237a2e6b'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1d56a910db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:48 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:48 - root - DEBUG - Generated solution code of length: 548
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:48 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:57 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'9671'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'198762'), (b'x-ratelimit-reset-requests', b'1m7.56s'), (b'x-ratelimit-reset-tokens', b'371ms'), (b'x-request-id', b'req_91be3835a1e12d25df27c933709e9e53'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1d63992ddb6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:58 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:58 - root - DEBUG - Generated explanation of length: 1542
+2025-03-09 22:52:58 - root - INFO - Solution generation complete
+2025-03-09 22:52:58 - showcase - INFO - Solved problem 3 (calculus) in 15.60 seconds
+2025-03-09 22:52:58 - showcase - INFO - Processing problem 4: Q4.jpeg
+2025-03-09 22:52:58 - root - INFO - Extracting math problem using OCR
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:58 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:59 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1185'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9992'), (b'x-ratelimit-remaining-tokens', b'198165'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m6.256s'), (b'x-ratelimit-reset-tokens', b'550ms'), (b'x-request-id', b'req_6cb36ec1c2c99e12216a4429def4a6d4'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1da1be0adb6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:52:59 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:52:59 - root - DEBUG - Extracted text: 6x - 3 = 51  
+8x + 1 = 3x + 26  
+4(x + 10) = 3x + 47  
+2025-03-09 22:52:59 - root - INFO - Identifying math problem type
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:52:59 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:52:59 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'384'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'192825'), (b'x-ratelimit-reset-requests', b'1m13.498s'), (b'x-ratelimit-reset-tokens', b'2.152s'), (b'x-request-id', b'req_66a90145a38666a98cea7b2528e6ea23'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1daa7e43db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:00 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:00 - root - INFO - Identified problem type: algebra
+2025-03-09 22:53:00 - root - INFO - Generating solution for algebra problem
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:00 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:53:05 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5266'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'194833'), (b'x-ratelimit-reset-requests', b'1m21.487s'), (b'x-ratelimit-reset-tokens', b'1.549s'), (b'x-request-id', b'req_5510bf57e7c7eff294df0543a81f635d'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1dae8d05db6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:05 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:05 - root - DEBUG - Generated solution code of length: 1037
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:05 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:18 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:53:18 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'13003'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'198762'), (b'x-ratelimit-reset-requests', b'1m24.628s'), (b'x-ratelimit-reset-tokens', b'371ms'), (b'x-request-id', b'req_00f0f0acb6c2308700563581058e7c18'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1dd0ff4fdb6f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:18 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:18 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:18 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:18 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:18 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:18 - root - DEBUG - Generated explanation of length: 1814
+2025-03-09 22:53:18 - root - INFO - Solution generation complete
+2025-03-09 22:53:18 - showcase - INFO - Solved problem 4 (algebra) in 20.77 seconds
+2025-03-09 22:53:18 - showcase - INFO - Nerd AI showcase complete. Results saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\nerd_ai\math_solutions_20250309_225211.txt
+2025-03-09 22:53:18 - showcase - INFO - Running Interior Design showcase...
+2025-03-09 22:53:18 - showcase - INFO - 
+==================================================
+2025-03-09 22:53:18 - showcase - INFO - SHOWCASING INTERIOR DESIGN APP: STYLE TRANSFORMER
+2025-03-09 22:53:18 - showcase - INFO - ==================================================
+2025-03-09 22:53:18 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:53:18 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:53:19 - showcase - INFO - Transforming living-room-victorian.jpg to Modern style
+2025-03-09 22:53:19 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:53:19 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A1E9110>
+2025-03-09 22:53:19 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002294A110170> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:53:19 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A1E8E50>
+2025-03-09 22:53:19 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:19 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:19 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:19 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:19 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:53:21 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1303'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'198197'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m19.194s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_2917beb604c775eac9f963cedb94f799'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=ktM1knWtnmw.GvsY6aWZBVsoJxPucGnRHI1OjUhNiL4-1741550001-1.0.1.1-KPuVocRuVC6uIDH4kgC8F23oPyskm3_ckBhGda3zRUM.vCoXSD_XiRFdcr7.gkuDMG4xev0sj7Dc6Qx5XJN_ytmfhSRAIt5PIjQV_79o10s; path=/; expires=Sun, 09-Mar-25 20:23:21 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=Vplz9o8by1_6m.VTL7FDudIC8_jwdNGurKKDQ25N7xs-1741550001063-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1e278eafe32a-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:21 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:21 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:32 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:53:32 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'10939'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'175425'), (b'x-ratelimit-reset-requests', b'1m26.241s'), (b'x-ratelimit-reset-tokens', b'7.372s'), (b'x-request-id', b'req_76b3811d5e52840dad72cc316d23b65a'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1e32df07e32a-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:32 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:32 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:32 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:32 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:32 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:32 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-inference.huggingface.co:443
+2025-03-09 22:53:38 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:53:38 - showcase - INFO - Transformed living-room-victorian.jpg to Modern style in 18.74 seconds
+2025-03-09 22:53:38 - showcase - INFO - Transforming living-room-victorian.jpg to Industrial style
+2025-03-09 22:53:38 - httpcore.connection - DEBUG - close.started
+2025-03-09 22:53:38 - httpcore.connection - DEBUG - close.complete
+2025-03-09 22:53:38 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:53:38 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A188290>
+2025-03-09 22:53:38 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002294A110170> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:53:38 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A1887D0>
+2025-03-09 22:53:38 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:38 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:38 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:38 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:38 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:53:40 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1647'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9991'), (b'x-ratelimit-remaining-tokens', b'198197'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m17.608s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_b65a95e71f78af28b0320a4e57f013bc'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1e9c8955d5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:40 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:40 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:47 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:53:47 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'6554'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'175478'), (b'x-ratelimit-reset-requests', b'1m24.286s'), (b'x-ratelimit-reset-tokens', b'7.356s'), (b'x-request-id', b'req_643a6a837e0d97b8f853d42e8b11b85c'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1eaafe4dd5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:47 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:47 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:47 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:47 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:47 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:51 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:53:52 - showcase - INFO - Transformed living-room-victorian.jpg to Industrial style in 13.96 seconds
+2025-03-09 22:53:52 - showcase - INFO - Transforming living-room-victorian.jpg to Scandinavian style
+2025-03-09 22:53:52 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:52 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:52 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:52 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:52 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:53:53 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'999'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'198197'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m21.15s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_553c1390cdb0d2a8d96e308fc6635bdb'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1ef32e5fd5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:53:53 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:53:53 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:04 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:04 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'10819'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9989'), (b'x-ratelimit-remaining-tokens', b'175445'), (b'x-ratelimit-reset-requests', b'1m28.469s'), (b'x-ratelimit-reset-tokens', b'7.366s'), (b'x-request-id', b'req_a6d59478007a123797f57d2fc721bdeb'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1efceea9d5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:04 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:04 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:04 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:04 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:04 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:09 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:54:09 - showcase - INFO - Transformed living-room-victorian.jpg to Scandinavian style in 17.13 seconds
+2025-03-09 22:54:09 - showcase - INFO - Transforming living-room-victorian.jpg to Minimalist style
+2025-03-09 22:54:09 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:09 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:09 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:09 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:09 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:11 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1536'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-input-images', b'50000'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-input-images', b'49999'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'198197'), (b'x-ratelimit-reset-input-images', b'1ms'), (b'x-ratelimit-reset-requests', b'1m21.278s'), (b'x-ratelimit-reset-tokens', b'540ms'), (b'x-request-id', b'req_d04c6065a80d4cc66564f766b96533fa'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1f5e8851d5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:11 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:11 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:16 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:16 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5207'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9989'), (b'x-ratelimit-remaining-tokens', b'175417'), (b'x-ratelimit-reset-requests', b'1m28.084s'), (b'x-ratelimit-reset-tokens', b'7.374s'), (b'x-request-id', b'req_7136ce087b13fb9407b6935976b70b31'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1f6b5c96d5e8-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:16 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:16 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:16 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:16 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:16 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:22 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-09 22:54:22 - showcase - INFO - Transformed living-room-victorian.jpg to Minimalist style in 13.12 seconds
+2025-03-09 22:54:22 - showcase - INFO - Interior Design showcase complete. Generated 4 transformations
+2025-03-09 22:54:22 - showcase - INFO - Running Music Generator showcase...
+2025-03-09 22:54:22 - showcase - INFO - 
+==================================================
+2025-03-09 22:54:22 - showcase - INFO - SHOWCASING MUSIC GENERATOR: LYRICS AND COVER ART
+2025-03-09 22:54:22 - showcase - INFO - ==================================================
+2025-03-09 22:54:22 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-09 22:54:22 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\CaseStudies\\CodeawayCaseStudies\\ai_suite\\.conda\\Library\\ssl\\cacert.pem'
+2025-03-09 22:54:22 - showcase - INFO - Generating Pop song with Happy mood for 'For celebration'
+2025-03-09 22:54:22 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:54:22 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A178190>
+2025-03-09 22:54:22 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002294A111A30> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:54:22 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A179BD0>
+2025-03-09 22:54:22 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:22 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:22 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:22 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:22 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:26 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3506'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9990'), (b'x-ratelimit-remaining-tokens', b'198345'), (b'x-ratelimit-reset-requests', b'1m25.239s'), (b'x-ratelimit-reset-tokens', b'496ms'), (b'x-request-id', b'req_3c89646b64ad11cde8e217ea98f10b03'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=pLtAwt1nDwIucF5gpCRB3.Q.LzKZZ4C04yElgSqj3AU-1741550066-1.0.1.1-6Br5xasqdQTJ2aYVhw8NU9wC7zQctcIeNYVe8i87FkXuvKIr8SyTpETZg7Sb_E3U3ZcX9xKloDRCGxUlLLFDridI18EWCmZKw4sdSr6pYLk; path=/; expires=Sun, 09-Mar-25 20:24:26 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=8mbRpVgQ_DKdoOatbstujuBl8SAHuCXOpoHIOHj0jp0-1741550066248-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1fb31e84db8f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:26 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:26 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:27 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'1390'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9989'), (b'x-ratelimit-remaining-tokens', b'199522'), (b'x-ratelimit-reset-requests', b'1m30.174s'), (b'x-ratelimit-reset-tokens', b'143ms'), (b'x-request-id', b'req_5e5cf917762344206e430f1c940bf53a'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1fca4d62db8f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:28 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:28 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:30 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:30 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2360'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9988'), (b'x-ratelimit-remaining-tokens', b'198630'), (b'x-ratelimit-reset-requests', b'1m37.226s'), (b'x-ratelimit-reset-tokens', b'411ms'), (b'x-request-id', b'req_c6d7a7c98e7b1d5c36a9ac0ebd43ec3a'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd1fd43fe5db8f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:30 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:30 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:30 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:30 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:30 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:43 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-base-1.0 HTTP/1.1" 200 None
+2025-03-09 22:54:43 - showcase - INFO - Generated Pop song 'Celebrate the Love' in 21.18 seconds
+2025-03-09 22:54:43 - showcase - INFO - Lyrics saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\pop_happy_1_20250309_225443_lyrics.txt
+2025-03-09 22:54:43 - showcase - INFO - Cover art saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\pop_happy_1_20250309_225443_cover.jpg
+2025-03-09 22:54:43 - showcase - INFO - Generating Rock song with Energetic mood for 'For celebration'
+2025-03-09 22:54:43 - httpcore.connection - DEBUG - close.started
+2025-03-09 22:54:43 - httpcore.connection - DEBUG - close.complete
+2025-03-09 22:54:43 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-09 22:54:44 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A176390>
+2025-03-09 22:54:44 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002294A111A30> server_hostname='api.openai.com' timeout=60
+2025-03-09 22:54:44 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002294A175BD0>
+2025-03-09 22:54:44 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:44 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:44 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:44 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:44 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:47 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3273'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9989'), (b'x-ratelimit-remaining-tokens', b'198343'), (b'x-ratelimit-reset-requests', b'1m29.972s'), (b'x-ratelimit-reset-tokens', b'496ms'), (b'x-request-id', b'req_451d00ee2242fa9f9448172b887566fe'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd20378b9ce326-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:47 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:47 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:51 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3706'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9988'), (b'x-ratelimit-remaining-tokens', b'199530'), (b'x-ratelimit-reset-requests', b'1m35.124s'), (b'x-ratelimit-reset-tokens', b'141ms'), (b'x-request-id', b'req_7ed15c72481737d02d21323367026c81'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd204d5934e326-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:51 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-09 22:54:51 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-09 22:54:54 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Sun, 09 Mar 2025 19:54:54 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2796'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9988'), (b'x-ratelimit-remaining-tokens', b'198627'), (b'x-ratelimit-reset-requests', b'1m39.842s'), (b'x-ratelimit-reset-tokens', b'411ms'), (b'x-request-id', b'req_53c9e073c6a3d90c4c2aeac6f4508bd6'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91dd2065dcade326-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-09 22:54:54 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-09 22:54:54 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-09 22:54:54 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-09 22:54:54 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-09 22:54:54 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-09 22:55:20 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-base-1.0 HTTP/1.1" 200 None
+2025-03-09 22:55:20 - showcase - INFO - Generated Rock song '"Eternal Celebration"' in 36.44 seconds
+2025-03-09 22:55:20 - showcase - INFO - Lyrics saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\rock_energetic_2_20250309_225520_lyrics.txt
+2025-03-09 22:55:20 - showcase - INFO - Cover art saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\rock_energetic_2_20250309_225520_cover.jpg
+2025-03-09 22:55:20 - showcase - INFO - Music Generator showcase complete. Generated 2 songs
+2025-03-09 22:55:20 - showcase - INFO - Showcase complete! Summary saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\showcase_summary_20250309_225211.txt

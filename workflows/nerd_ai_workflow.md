@@ -1,134 +1,272 @@
-# Nerd AI: Math Solver Workflow
+# Nerd AI: Math Problem Solver Workflow
 
 ## Overview
 
-Nerd AI is an AI-powered math solver application that allows users to scan math problems using the "Scan & Solve" feature. The application processes images of math problems, extracts the mathematical content, identifies the problem type, and generates step-by-step solutions.
+Nerd AI is an intelligent math problem solver that can analyze images of mathematical problems, identify their type, and generate step-by-step solutions with educational explanations. The system uses OCR to extract mathematical notation from images and leverages advanced language models to solve problems across various mathematical domains.
 
-## Target Users
+## Complete Workflow
 
-- Students seeking homework help
-- Teachers creating solution guides
-- Parents helping children with math
-- Self-learners verifying their work
+1. **Problem Intake**
+   - User uploads or takes a photo of a math problem
+   - Image is validated for format, size, and quality
+   - Supported formats: JPG, JPEG, PNG
+   - Maximum file size: 10MB
 
-## Workflow Diagram
+2. **OCR Processing**
+   - OCR extracts the mathematical notation and text from the image
+   - Specialized prompting ensures accurate recognition of math symbols
+   - Extracted text is normalized and formatted for processing
+   - Special attention to mathematical symbols, subscripts, superscripts, and equations
 
+3. **Problem Classification**
+   - AI analyzes the problem text to identify the mathematical domain
+   - Categories include: algebra, calculus, statistics, geometry, number theory, trigonometry
+   - Classification determines specialized solving approach
+   - High precision classification improves solution quality
+
+4. **Solution Generation**
+   - Two-step process:
+     1. Code generation: Create Python code to solve the problem
+     2. Educational explanation: Generate step-by-step explanation with proper mathematical notation
+   - Solution is formatted with LaTeX for proper mathematical display
+   - Both computational and conceptual approaches provided
+
+5. **Result Presentation**
+   - Complete solution with:
+     - Original problem text
+     - Problem type/domain
+     - Solution code (for verification)
+     - Step-by-step explanation
+     - Final answer clearly marked
+   - LaTeX formatting for proper mathematical rendering
+
+## Prompts & Models
+
+### OCR Prompt Template
 ```
-┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
-│   Image     │     │    OCR      │     │   Problem   │     │  Solution   │     │ Explanation │
-│   Upload    │────▶│  Processing │────▶│ Classification│───▶│ Generation  │────▶│ Formatting  │
-└─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘     └─────────────┘
+Extract the mathematical problem from this image. 
+Capture all mathematical notation precisely, including:
+- Fractions, square roots, and other mathematical symbols
+- Subscripts and superscripts
+- Equations and inequalities
+- Any text instructions that are part of the problem
+
+Output only the extracted problem with no additional explanation or commentary.
 ```
 
-## Detailed Workflow Steps
+### Problem Classification Prompt Template
+```
+Identify the mathematical domain of this problem:
+"{extracted_problem_text}"
 
-### 1. Image Acquisition & Preprocessing
+Classify it into ONE of the following categories:
+- algebra: Equations, inequalities, functions, systems of equations
+- calculus: Derivatives, integrals, limits, optimization
+- statistics: Probability, distributions, hypothesis testing, data analysis
+- geometry: Angles, shapes, areas, volumes, coordinate geometry
+- number_theory: Number properties, divisibility, modular arithmetic
+- trigonometry: Trig functions, identities, angles, triangles
 
-**Input**: User uploads an image of a math problem
+Return only the category name with no explanation.
+```
 
-**Process**:
-- Validate image format and quality
-- Enhance image readability through preprocessing
-- Prepare image for OCR processing
+### Solution Code Generation Prompt Template
+```
+Create a Python solution for this {problem_type} problem:
 
-**Output**: Preprocessed image ready for text extraction
+{problem_text}
 
-**AI Model Used**: None (standard image processing)
+Important requirements for your solution:
+1. Use appropriate mathematical libraries (like sympy, numpy, etc.)
+2. Make sure the code is correct and executable
+3. Use clear variable names and add comments to explain steps
+4. Include imports at the beginning
+5. Format complex mathematical expressions carefully
+6. End with a clear print statement showing the final result
+7. Make sure the solution is complete and correct
+```
 
-**Business Value**: Ensures high-quality input for subsequent steps, reducing errors and improving user experience.
+### Educational Explanation Prompt Template
+```
+Provide a clear, step-by-step explanation for this {problem_type} problem:
 
-### 2. OCR & Math Problem Extraction
+{problem_text}
 
-**Input**: Preprocessed image
+Format your explanation following these guidelines:
+1. Use properly formatted LaTeX math notation:
+   - Use $...$ for inline math expressions
+   - Use $$...$$ for display math (standalone expressions)
+   - DO NOT use square brackets [ ] or parentheses ( ) to denote equations
+2. Structure your explanation with clear step headings (e.g., Step 1, Step 2)
+3. Include a 'Final Answer' or 'Conclusion' section at the end
+4. Keep equations properly formatted - for complex fractions use \frac{}{} not /
+5. Use proper LaTeX for mathematical symbols (e.g., \infty for infinity, \int for integrals)
+6. Break down the solution process into 3-6 clear steps, explaining the mathematical concepts
+7. Provide the answer in its simplified form
 
-**Process**:
-- Extract text and mathematical symbols from the image
-- Recognize mathematical notation and formatting
-- Convert to properly formatted text representation
+Make your explanation educational and clear enough for a student to understand.
+```
 
-**Output**: Extracted math problem text
+### Model Selection Rationale
 
-**AI Model Used**: GPT-4o-mini (vision capabilities)
+**Primary Model: GPT-4o-mini**
+- Provides optimal balance of capability and efficiency for math reasoning
+- Strong performance in OCR and mathematical notation recognition
+- Excellent at multi-step problem solving and educational explanations
+- Cost-effective for deployment at scale
+- Superior handling of mathematical notation and formatting
 
-**Business Value**: Accurately captures complex mathematical notation that traditional OCR systems struggle with, enabling the solution of a wider range of problems.
+**Parameter Recommendations:**
+- OCR Processing: `temperature=0.1` (low creativity for accurate extraction)
+- Problem Classification: `temperature=0.0` (deterministic classification)
+- Solution Code Generation: `temperature=0.2` (slight creativity for problem-solving approaches)
+- Educational Explanation: `temperature=0.3` (moderate creativity for clear explanations)
 
-### 3. Problem Classification
+## Solution Examples
 
-**Input**: Extracted math problem text
+### Example 1: Algebraic Equation
 
-**Process**:
-- Analyze the problem structure and content
-- Identify the mathematical domain (algebra, calculus, etc.)
-- Determine specific problem type within the domain
+**Original Problem Image:** Q1.jpeg
+**Problem Text:** Solve for x: 3x + 5 = 17
 
-**Output**: Problem type classification
+**Generated Solution:**
+```python
+# Import libraries
+import sympy as sp
 
-**AI Model Used**: GPT-4o-mini
+# Define the variable
+x = sp.Symbol('x')
 
-**Business Value**: Enables specialized handling of different problem types, improving solution accuracy and relevance.
+# Define the equation: 3x + 5 = 17
+equation = sp.Eq(3*x + 5, 17)
 
-### 4. Solution Generation
+# Solve the equation
+solution = sp.solve(equation, x)
 
-**Input**: Extracted problem text and problem type
+# Print the result
+print("Solution:")
+print(f"x = {solution[0]}")
+```
 
-**Process**:
-- Generate Python code to solve the problem using appropriate libraries
-- Execute the code to obtain the numerical/symbolic solution
-- Create step-by-step solution path
+**Educational Explanation:**
+```
+Step 1: Understand the problem
+We need to solve for the value of x in the equation: 
+$$3x + 5 = 17$$
 
-**Output**: Solution code and results
+Step 2: Isolate the variable term
+First, we subtract 5 from both sides of the equation:
+$$3x + 5 - 5 = 17 - 5$$
+$$3x = 12$$
 
-**AI Model Used**: GPT-4o-mini with code interpreter capabilities
+Step 3: Divide both sides by the coefficient of x
+Now, we divide both sides by 3:
+$$\frac{3x}{3} = \frac{12}{3}$$
+$$x = 4$$
 
-**Business Value**: Provides accurate solutions to complex problems, saving users time and effort in solving problems manually.
+Final Answer:
+The solution to the equation 3x + 5 = 17 is x = 4.
 
-### 5. Explanation Formatting
+Verification:
+Let's substitute x = 4 back into the original equation:
+$$3(4) + 5 = 17$$
+$$12 + 5 = 17$$
+$$17 = 17$$
+The equation is satisfied, confirming our answer is correct.
+```
 
-**Input**: Solution code and results
+### Example 2: Calculus Problem
 
-**Process**:
-- Generate human-readable explanation of the solution
-- Format mathematical notation using LaTeX
-- Structure the explanation in clear, educational steps
+**Original Problem Image:** Q2.jpeg
+**Problem Text:** Find the derivative of f(x) = x³ - 4x² + 7x - 2
 
-**Output**: Formatted step-by-step solution with explanation
+**Generated Solution:**
+```python
+# Import libraries
+import sympy as sp
 
-**AI Model Used**: GPT-4o-mini
+# Define the variable
+x = sp.Symbol('x')
 
-**Business Value**: Delivers educational value beyond just the answer, helping users understand the problem-solving process.
+# Define the function f(x) = x³ - 4x² + 7x - 2
+f = x**3 - 4*x**2 + 7*x - 2
 
-## AI Model Selection Rationale
+# Calculate the derivative
+f_prime = sp.diff(f, x)
 
-We selected GPT-4o-mini for all AI components of the workflow because:
+# Simplify the result
+f_prime_simplified = sp.simplify(f_prime)
 
-1. **Unified Model Approach**: Using a single model throughout the pipeline simplifies integration and maintenance.
+# Print the results
+print("Original function:")
+print(f"f(x) = {f}")
+print("\nDerivative:")
+print(f"f'(x) = {f_prime_simplified}")
+```
 
-2. **Vision Capabilities**: GPT-4o-mini can process images directly, eliminating the need for separate OCR tools.
+**Educational Explanation:**
+```
+Step 1: Identify the function
+Given function: $$f(x) = x^3 - 4x^2 + 7x - 2$$
 
-3. **Mathematical Understanding**: The model demonstrates strong capabilities in understanding mathematical concepts and notation.
+Step 2: Apply the derivative rules
+We'll use the power rule and linearity of differentiation to find the derivative. The power rule states that for any term $x^n$, the derivative is $nx^{n-1}$.
 
-4. **Code Generation**: Its ability to generate and reason about code enables the solution of complex mathematical problems.
+For each term:
+- $\frac{d}{dx}(x^3) = 3x^2$
+- $\frac{d}{dx}(-4x^2) = -4 \cdot 2x = -8x$
+- $\frac{d}{dx}(7x) = 7$
+- $\frac{d}{dx}(-2) = 0$ (as the derivative of a constant is zero)
 
-5. **Cost-Effectiveness**: GPT-4o-mini offers a good balance of performance and cost compared to larger models.
+Step 3: Combine the derivatives of each term
+$$f'(x) = 3x^2 - 8x + 7$$
 
-## Performance Metrics
+Final Answer:
+The derivative of $f(x) = x^3 - 4x^2 + 7x - 2$ is $f'(x) = 3x^2 - 8x + 7$
+```
 
-- **OCR Accuracy**: >95% for clearly written problems
-- **Problem Classification Accuracy**: >90% across supported domains
-- **Solution Accuracy**: >85% for problems within supported domains
-- **Average Processing Time**: <10 seconds for complete workflow
+## Implementation Details
+
+### Error Handling
+
+The Nerd AI system includes robust error handling at each stage:
+
+1. **Image Validation Errors:**
+   - Image format not supported
+   - File too large
+   - Image not readable or corrupted
+
+2. **OCR Extraction Errors:**
+   - Text not recognized
+   - Mathematical notation unclear
+   - Multiple problems detected
+
+3. **Solution Generation Errors:**
+   - Problem type not supported
+   - Problem too complex
+   - Inconsistent or incomplete information
+
+### Performance Considerations
+
+- Average processing time: 5-15 seconds per problem
+- OCR accuracy: >95% for clear images
+- Solution accuracy: >90% across supported problem types
+- Handling of complex notation may require additional processing time
+- Resource usage optimized for parallel processing
 
 ## Future Enhancements
 
-1. **Handwriting Support**: Improve OCR for handwritten math problems
-2. **Additional Math Domains**: Expand support to more specialized areas of mathematics
-3. **Interactive Solutions**: Allow users to step through solutions interactively
-4. **Problem Generation**: Create similar practice problems based on the uploaded problem
-5. **Mobile App Integration**: Develop mobile-specific features for on-the-go use
+1. **Extended Problem Types:**
+   - Support for more advanced mathematics (e.g., differential equations, linear algebra)
+   - Multi-part problems
+   - Word problems with mathematical components
 
-## Business Impact
+2. **Interactive Solutions:**
+   - Step-by-step interactive walkthroughs
+   - Alternative solution methods
+   - Practice problems generation
 
-- **Educational Value**: Provides not just answers but learning opportunities
-- **Time Savings**: Reduces time spent on homework and problem-checking
-- **Accessibility**: Makes advanced math help available to all users
-- **Engagement**: Keeps users returning for reliable math assistance 
+3. **Performance Improvements:**
+   - Faster OCR processing
+   - Specialized mathematical notation handling
+   - Caching common problem types 
