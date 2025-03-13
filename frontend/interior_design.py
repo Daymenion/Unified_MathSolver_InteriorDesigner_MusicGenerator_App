@@ -63,6 +63,48 @@ def render_interior_design():
         INTERIOR_DESIGN_SETTINGS["supported_styles"]
     )
     
+    # Processing method selection
+    st.markdown("### Choose processing method")
+    use_local_sd = st.radio(
+        "Processing method",
+        ["Use Hugging Face API (Cloud)", "Use Local Stable Diffusion (Local GPU)"],
+        index=0,
+        help="API is faster but requires API credentials. Local SD uses your GPU but doesn't require internet."
+    )
+    
+    # Convert radio selection to boolean
+    use_local_sd = (use_local_sd == "Use Local Stable Diffusion (Local GPU)")
+    
+    # Advanced options in expander
+    with st.expander("Advanced Settings", expanded=False):
+        strength = st.slider(
+            "Transformation Strength", 
+            min_value=0.1, 
+            max_value=1.0, 
+            value=0.8, 
+            step=0.05,
+            help="Higher values create more dramatic changes"
+        )
+        
+        steps = st.slider(
+            "Inference Steps", 
+            min_value=20, 
+            max_value=100, 
+            value=50, 
+            step=5,
+            help="More steps = higher quality but slower processing"
+        )
+        
+        if use_local_sd:
+            image_resolution = st.slider(
+                "Image Resolution", 
+                min_value=384, 
+                max_value=768, 
+                value=512, 
+                step=64,
+                help="Higher resolution = better quality but requires more VRAM"
+            )
+        
     if uploaded_file is not None:
         logger.info(f"User uploaded file: {uploaded_file.name}")
         # Display the uploaded image
@@ -88,8 +130,13 @@ def render_interior_design():
     
     # Transform button
     if image_data is not None and st.button("Transform Style"):
-        logger.info(f"User requested style transformation: {style}")
-        with st.spinner(f"Transforming to {style} style..."):
+        logger.info(f"User requested style transformation: {style}, Method: {'Local SD' if use_local_sd else 'API'}")
+        
+        # Check if local SD is selected but CUDA is not available
+        if use_local_sd and not st.session_state.style_transformer.get_device().type == 'cuda':
+            st.warning("⚠️ Local Stable Diffusion selected but GPU not detected. Processing will be very slow.")
+            
+        with st.spinner(f"Transforming to {style} style using {'Local SD' if use_local_sd else 'API'}..."):
             # Get the room type based on the image name
             if image_source == "sample":
                 room_type = "Living Room" if "living" in os.path.basename(image_data).lower() else "Kitchen"
@@ -99,11 +146,16 @@ def render_interior_design():
             
             # Perform the transformation
             result = st.session_state.style_transformer.transform_style(
-                image_data, style, room_type
+                image_data, 
+                style, 
+                room_type,
+                use_local_sd=use_local_sd,
+                strength=strength,
+                num_inference_steps=steps
             )
             
             if result["success"]:
-                logger.info("Style transformation successful")
+                logger.info(f"Style transformation successful using {'local SD' if use_local_sd else 'API'}")
                 # Display the before and after images
                 col1, col2 = st.columns(2)
                 
@@ -146,12 +198,10 @@ def render_interior_design():
                     parameters = {
                         "style": style,
                         "room_type": safe_get(result, "room_type", "Unknown"),
+                        "method": "Local Stable Diffusion" if use_local_sd else "Hugging Face API",
+                        "strength": strength,
+                        "steps": steps
                     }
-                    
-                    # Safely add image generation parameters using safe_get
-                    parameters["guidance_scale"] = safe_get(INTERIOR_DESIGN_SETTINGS, ["image_generation", "guidance_scale"], 7.5)
-                    parameters["steps"] = safe_get(INTERIOR_DESIGN_SETTINGS, ["image_generation", "steps"], 50)
-                    parameters["strength"] = safe_get(INTERIOR_DESIGN_SETTINGS, ["image_generation", "strength"], 0.8)
                     
                     # Display the parameters
                     st.json(parameters)
@@ -159,6 +209,12 @@ def render_interior_design():
                 error_msg = safe_get(result, "error", "Unknown error occurred")
                 logger.error(f"Style transformation failed: {error_msg}")
                 st.error(f"Error: {error_msg}")
+                
+                # Provide troubleshooting suggestions based on the error
+                if "API" in error_msg and "credentials" in error_msg:
+                    st.info("💡 To use the API method, make sure your Hugging Face API token is set in your environment variables.")
+                elif "Failed to initialize local Stable Diffusion" in error_msg:
+                    st.info("💡 To use Local Stable Diffusion, make sure you have the required packages installed. Try using the API method instead.")
     
     # Example transformations
     st.markdown("---")
@@ -213,7 +269,9 @@ def render_interior_design():
     1. **Image Analysis**: Your uploaded image is analyzed to identify the room type and key elements.
     2. **Style Definition**: Each style (Modern, Soho, Gothic) has specific characteristics defined in our system.
     3. **Prompt Generation**: A detailed prompt is created that describes how to transform your room while keeping its layout.
-    4. **Style Transfer**: Our AI model transforms the image based on the prompt, applying the new style while maintaining the room's structure.
+    4. **Style Transfer Options**:
+       - **API Method**: Uses Hugging Face Inference API with SDXL for high-quality transformations
+       - **Local Method**: Uses Stable Diffusion with ControlNet MLSD for structure-preserving transformations on your own hardware
     5. **Image Enhancement**: The final image is optimized for quality and visual appeal.
     
     The transformation preserves the positions of furniture and major elements while changing colors, textures, materials, and decorative elements.

@@ -6372,3 +6372,1651 @@ KeyboardInterrupt
 2025-03-09 22:55:20 - showcase - INFO - Cover art saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\music\rock_energetic_2_20250309_225520_cover.jpg
 2025-03-09 22:55:20 - showcase - INFO - Music Generator showcase complete. Generated 2 songs
 2025-03-09 22:55:20 - showcase - INFO - Showcase complete! Summary saved to D:\PROJECTS\CaseStudies\CodeawayCaseStudies\ai_suite\data\outputs\showcase_summary_20250309_225211.txt
+2025-03-13 01:19:41 - root - INFO - Logging system initialized
+2025-03-13 01:19:41 - root - INFO - Application starting
+2025-03-13 01:19:45 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:19:45 - root - DEBUG - Streamlit page configured
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:19:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:19:45 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:19:45 - root - INFO - User selected page: Home
+2025-03-13 01:19:45 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 01:19:46 - root - INFO - Application initialization complete
+2025-03-13 01:19:58 - root - INFO - Application starting
+2025-03-13 01:19:58 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:19:58 - root - DEBUG - Streamlit page configured
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:19:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:19:58 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:19:58 - root - INFO - User selected page: Home
+2025-03-13 01:19:58 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 01:19:58 - root - INFO - Application initialization complete
+2025-03-13 01:20:13 - root - INFO - Application starting
+2025-03-13 01:20:13 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:20:13 - root - DEBUG - Streamlit page configured
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:20:13 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:20:13 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:20:13 - root - INFO - User selected page: Interior Design
+2025-03-13 01:20:13 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:20:13 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 01:20:13 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 01:20:13 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 01:20:13 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 01:20:13 - root - INFO - Application initialization complete
+2025-03-13 01:20:32 - root - INFO - Application starting
+2025-03-13 01:20:32 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:20:32 - root - DEBUG - Streamlit page configured
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:20:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:20:32 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:20:32 - root - INFO - User selected page: Interior Design
+2025-03-13 01:20:32 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:20:32 - root - INFO - User selected sample image: living-room-classic.jpg
+2025-03-13 01:20:32 - root - INFO - Application initialization complete
+2025-03-13 01:20:55 - root - INFO - Application starting
+2025-03-13 01:20:55 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:20:55 - root - DEBUG - Streamlit page configured
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:20:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:20:55 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:20:55 - root - INFO - User selected page: Interior Design
+2025-03-13 01:20:55 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:20:55 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:20:55 - root - INFO - Application initialization complete
+2025-03-13 01:21:11 - root - INFO - Application starting
+2025-03-13 01:21:11 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:21:11 - root - DEBUG - Streamlit page configured
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:21:11 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:21:11 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:21:11 - root - INFO - User selected page: Interior Design
+2025-03-13 01:21:11 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:21:11 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:21:11 - root - INFO - Application initialization complete
+2025-03-13 01:21:18 - root - INFO - Application starting
+2025-03-13 01:21:18 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:21:18 - root - DEBUG - Streamlit page configured
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:21:18 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:21:19 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:21:19 - root - INFO - User selected page: Interior Design
+2025-03-13 01:21:19 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:21:19 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:21:19 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 01:21:19 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 01:21:19 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000014FF651E210>
+2025-03-13 01:21:19 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000014FF65BF770> server_hostname='api.openai.com' timeout=60
+2025-03-13 01:21:19 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000014FF6683350>
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 401, b'Unauthorized', [(b'Date', b'Wed, 12 Mar 2025 22:21:19 GMT'), (b'Content-Type', b'application/json; charset=utf-8'), (b'Content-Length', b'254'), (b'Connection', b'keep-alive'), (b'vary', b'Origin'), (b'x-request-id', b'req_81a8f1c32718692a44304f840b75e9d6'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=RN9Uen.UjZ4qqsP4DfPHSlfM2UXLCPB2nd_sBjQi2WU-1741818079-1.0.1.1-4tWwigiy4oHm4pz6XIW3kCDWevAQIXV9o6zNSMhM_rE9CTeFdJK12HG1MX3LEMGy_zsr1YvOalpqSYh5ueUTwA1PSzmR495RFA9ChkOmJM0; path=/; expires=Wed, 12-Mar-25 22:51:19 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=RUbZEIce4lK6CLEuO2y0aPrJzTXKHUyKACJt05kpqJc-1741818079538-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f6af13b8bdd60b-IST'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 01:21:19 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 01:21:19 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 01:21:19 - root - ERROR - Error in transform_style: OpenAI API error: Incorrect API key provided: None. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-13 01:21:19 - root - ERROR - Style transformation failed: Error transforming image: OpenAI API error: Incorrect API key provided: None. You can find your API key at https://platform.openai.com/account/api-keys.
+2025-03-13 01:21:19 - root - INFO - Application initialization complete
+2025-03-13 01:24:29 - root - INFO - Logging system initialized
+2025-03-13 01:24:29 - root - INFO - Application starting
+2025-03-13 01:24:32 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:24:32 - root - DEBUG - Streamlit page configured
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:32 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:32 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:24:32 - root - INFO - User selected page: Home
+2025-03-13 01:24:32 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 01:24:32 - root - INFO - Application initialization complete
+2025-03-13 01:24:35 - root - INFO - Application starting
+2025-03-13 01:24:35 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:24:35 - root - DEBUG - Streamlit page configured
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:35 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:24:35 - root - INFO - User selected page: Interior Design
+2025-03-13 01:24:35 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:24:35 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 01:24:35 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 01:24:35 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 01:24:36 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 01:24:36 - root - INFO - Application initialization complete
+2025-03-13 01:24:40 - root - INFO - Application starting
+2025-03-13 01:24:40 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:24:40 - root - DEBUG - Streamlit page configured
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:40 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:24:40 - root - INFO - User selected page: Interior Design
+2025-03-13 01:24:40 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:24:40 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:24:40 - root - INFO - Application initialization complete
+2025-03-13 01:24:48 - root - INFO - Application starting
+2025-03-13 01:24:48 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:24:48 - root - DEBUG - Streamlit page configured
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:48 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:48 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:24:48 - root - INFO - User selected page: Interior Design
+2025-03-13 01:24:48 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:24:48 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:24:48 - root - INFO - Application initialization complete
+2025-03-13 01:24:56 - root - INFO - Application starting
+2025-03-13 01:24:56 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:24:56 - root - DEBUG - Streamlit page configured
+2025-03-13 01:24:56 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:56 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:56 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:56 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:56 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:56 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:24:57 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:24:57 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:24:57 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:24:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:24:57 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:24:57 - root - INFO - User selected page: Interior Design
+2025-03-13 01:24:57 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:24:57 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:24:57 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 01:24:57 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 01:24:57 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001F02BBD5C10>
+2025-03-13 01:24:57 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001F02BB5A9F0> server_hostname='api.openai.com' timeout=60
+2025-03-13 01:24:57 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001F027BF44D0>
+2025-03-13 01:24:57 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 01:24:57 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 01:24:57 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 01:24:57 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 01:24:57 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 01:25:01 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 12 Mar 2025 22:25:01 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3727'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_b35cabe640a0773f5878b8b1acbbe932'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=fEHg0tq_WA3QAXG2m5zzstoQ_UOtzgqV3CvN3.ST9Q8-1741818301-1.0.1.1-WtCMptwas8QC8Fs4aQ9JHQdhkXloGfhrknJPhs9ISDyT6q_odoAnJrtfzXf6nvm0SDObPRmTOzbkQn9gOJGmjuViEy1Jg7sr7gwqiKr8dAU; path=/; expires=Wed, 12-Mar-25 22:55:01 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=F2AYoFYHT6hBNKCh7g8sGhR40NL8bA.QEmkKzpVyMzI-1741818301706-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f6b4662fa1e347-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 01:25:01 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 01:25:01 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 01:25:01 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 01:25:01 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 01:25:01 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 01:25:01 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_012501_prompt.txt
+2025-03-13 01:25:01 - root - WARNING - CUDA is not available. Local SD will be very slow on CPU.
+2025-03-13 01:25:07 - root - INFO - Initializing Local Stable Diffusion with ControlNet...
+2025-03-13 01:25:07 - root - ERROR - Error initializing MLSD detector: No module named 'annotator'
+2025-03-13 01:25:07 - root - ERROR - Error initializing local Stable Diffusion: Failed to initialize MLSD detector: No module named 'annotator'
+2025-03-13 01:25:07 - root - ERROR - Error in local SD transformation: Failed to initialize local Stable Diffusion: Failed to initialize MLSD detector: No module named 'annotator'
+2025-03-13 01:25:07 - root - ERROR - Style transformation failed: Error with local Stable Diffusion: Failed to initialize local Stable Diffusion: Failed to initialize MLSD detector: No module named 'annotator'
+2025-03-13 01:25:07 - root - INFO - Application initialization complete
+2025-03-13 01:25:08 - root - INFO - Application starting
+2025-03-13 01:25:08 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:25:08 - root - DEBUG - Streamlit page configured
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:25:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:25:08 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:25:08 - root - INFO - User selected page: Home
+2025-03-13 01:25:08 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 01:25:08 - root - INFO - Application initialization complete
+2025-03-13 01:25:24 - root - INFO - Application starting
+2025-03-13 01:25:24 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:25:24 - root - DEBUG - Streamlit page configured
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:25:24 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:25:24 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:25:24 - root - INFO - User selected page: Interior Design
+2025-03-13 01:25:24 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:25:24 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 01:25:24 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 01:25:24 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 01:25:25 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 01:25:25 - root - INFO - User selected sample image: living-room-classic.jpg
+2025-03-13 01:25:25 - root - INFO - Application initialization complete
+2025-03-13 01:33:47 - root - INFO - Logging system initialized
+2025-03-13 01:33:47 - root - INFO - Application starting
+2025-03-13 01:33:47 - root - INFO - Application starting
+2025-03-13 01:33:49 - root - INFO - Application starting
+2025-03-13 01:33:50 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:33:50 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:33:50 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:33:50 - root - DEBUG - Streamlit page configured
+2025-03-13 01:33:50 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:33:50 - root - DEBUG - Streamlit page configured
+2025-03-13 01:33:50 - root - DEBUG - Streamlit page configured
+2025-03-13 01:33:50 - root - DEBUG - Streamlit page configured
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:50 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:33:50 - root - INFO - User selected page: Interior Design
+2025-03-13 01:33:50 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:33:50 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 01:33:50 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:33:50 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 01:33:50 - root - INFO - User selected page: Home
+2025-03-13 01:33:50 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 01:33:50 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 01:33:50 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:33:50 - root - INFO - User selected page: Home
+2025-03-13 01:33:50 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 01:33:50 - root - INFO - Application initialization complete
+2025-03-13 01:33:50 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:33:50 - root - INFO - User selected page: Interior Design
+2025-03-13 01:33:50 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:33:50 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 01:33:50 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 01:33:50 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 01:33:50 - root - INFO - Application initialization complete
+2025-03-13 01:33:51 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 01:33:51 - root - INFO - User selected sample image: living-room-classic.jpg
+2025-03-13 01:33:51 - root - INFO - Application initialization complete
+2025-03-13 01:33:51 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 01:33:51 - root - INFO - Application initialization complete
+2025-03-13 01:33:55 - root - INFO - Application starting
+2025-03-13 01:33:55 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:33:55 - root - DEBUG - Streamlit page configured
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:55 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:33:55 - root - INFO - User selected page: Interior Design
+2025-03-13 01:33:55 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:33:55 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 01:33:55 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 01:33:55 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 01:33:55 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 01:33:55 - root - INFO - Application initialization complete
+2025-03-13 01:33:59 - root - INFO - Application starting
+2025-03-13 01:33:59 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:33:59 - root - DEBUG - Streamlit page configured
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:33:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:33:59 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:33:59 - root - INFO - User selected page: Interior Design
+2025-03-13 01:33:59 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:33:59 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:33:59 - root - INFO - Application initialization complete
+2025-03-13 01:34:02 - root - INFO - Application starting
+2025-03-13 01:34:02 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:34:02 - root - DEBUG - Streamlit page configured
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:34:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:34:02 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:34:02 - root - INFO - User selected page: Interior Design
+2025-03-13 01:34:02 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:34:02 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:34:02 - root - INFO - Application initialization complete
+2025-03-13 01:34:09 - root - INFO - Application starting
+2025-03-13 01:34:09 - root - INFO - Frontend modules imported successfully
+2025-03-13 01:34:09 - root - DEBUG - Streamlit page configured
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 01:34:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 01:34:09 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 01:34:09 - root - INFO - User selected page: Interior Design
+2025-03-13 01:34:09 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 01:34:09 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 01:34:09 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 01:34:09 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 01:34:09 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021DF9BCF810>
+2025-03-13 01:34:09 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x0000021DF7C2D910> server_hostname='api.openai.com' timeout=60
+2025-03-13 01:34:09 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x0000021D81D74750>
+2025-03-13 01:34:09 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 01:34:09 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 01:34:09 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 01:34:09 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 01:34:09 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 01:34:14 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 12 Mar 2025 22:34:14 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'4437'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_0501cfd7d1ca859f822ac243bebe54d4'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=Tf327XsOiwilADM69YNG4.snGkGvU9ow8pwCele879g-1741818854-1.0.1.1-u6assRhnxgdvOYjhpeyAaYoVtww958CxigbkQKuL_DulchR1RvmxKee0dNgm1njeQyc9Q0Y0qMK1OCkfYvQqLZHppMkG4cKd6Ee7QPaaxKs; path=/; expires=Wed, 12-Mar-25 23:04:14 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=a8YiTwxmwXB5KcrwhDTbb4rHUAZ5LfumYA27Y1U8Kdw-1741818854433-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f6c1e36e29d620-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 01:34:14 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 01:34:14 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 01:34:14 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 01:34:14 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 01:34:14 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 01:34:14 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_013414_prompt.txt
+2025-03-13 01:34:14 - root - WARNING - CUDA is not available. Local SD will be very slow on CPU.
+2025-03-13 01:34:17 - root - INFO - Initializing Local Stable Diffusion with ControlNet...
+2025-03-13 01:34:17 - root - DEBUG - Successfully imported MLSD detector using relative import
+2025-03-13 01:34:19 - root - ERROR - Error initializing MLSD detector: No module named 'torchvision.transforms.functional_tensor'
+2025-03-13 01:34:19 - root - ERROR - Python path: ['D:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\app.py', 'D:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App', 'D:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App', 'C:\\Users\\msı\\.conda\\envs\\Rag\\python311.zip', 'C:\\Users\\msı\\.conda\\envs\\Rag\\DLLs', 'C:\\Users\\msı\\.conda\\envs\\Rag\\Lib', 'C:\\Users\\msı\\.conda\\envs\\Rag', 'd:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv', 'd:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages']
+2025-03-13 01:34:19 - root - ERROR - Current directory: D:\PROJECTS\MY_OWN_PEOJECTS\Unified_MathSolver_InteriorDesign_MusicGenerator_App
+2025-03-13 01:34:19 - root - ERROR - Annotator directory exists at D:\PROJECTS\MY_OWN_PEOJECTS\Unified_MathSolver_InteriorDesign_MusicGenerator_App\interior_design\annotator, but module still not found
+2025-03-13 01:34:19 - root - ERROR - Error initializing local Stable Diffusion: Failed to initialize MLSD detector: No module named 'torchvision.transforms.functional_tensor'
+2025-03-13 01:34:19 - root - ERROR - Error in local SD transformation: Failed to initialize local Stable Diffusion: Failed to initialize MLSD detector: No module named 'torchvision.transforms.functional_tensor'
+2025-03-13 01:34:19 - root - INFO - Local SD failed, attempting fallback to Hugging Face API
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing BlpImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing BmpImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing BufrStubImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing CurImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing DcxImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing DdsImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing EpsImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing FitsImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing FliImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing FpxImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Image: failed to import FpxImagePlugin: No module named 'olefile'
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing FtexImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing GbrImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing GifImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing GribStubImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing Hdf5StubImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing IcnsImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing IcoImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing ImImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing ImtImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing IptcImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing JpegImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing Jpeg2KImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing McIdasImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing MicImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Image: failed to import MicImagePlugin: No module named 'olefile'
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing MpegImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing MpoImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing MspImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PalmImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PcdImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PcxImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PdfImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PixarImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PngImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PpmImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing PsdImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing QoiImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing SgiImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing SpiderImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing SunImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing TgaImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing TiffImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing WebPImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing WmfImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing XbmImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing XpmImagePlugin
+2025-03-13 01:34:19 - PIL.Image - DEBUG - Importing XVThumbImagePlugin
+2025-03-13 01:34:19 - root - ERROR - Style transformation failed: Invalid image file: cannot identify image file <_io.BytesIO object at 0x0000021D9585CEA0>
+2025-03-13 01:34:19 - root - INFO - Application initialization complete
+2025-03-13 02:29:47 - root - INFO - Logging system initialized
+2025-03-13 02:29:47 - root - INFO - Application starting
+2025-03-13 02:29:49 - interior_design - INFO - Successfully imported StyleTransformer
+2025-03-13 02:29:50 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:29:50 - root - DEBUG - Streamlit page configured
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:29:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:29:50 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:29:50 - root - INFO - User selected page: Home
+2025-03-13 02:29:50 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 02:29:50 - root - INFO - Application initialization complete
+2025-03-13 02:29:53 - root - INFO - Application starting
+2025-03-13 02:29:53 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:29:53 - root - DEBUG - Streamlit page configured
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:29:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:29:53 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:29:53 - root - INFO - User selected page: Interior Design
+2025-03-13 02:29:53 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:29:53 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 02:29:53 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 02:29:53 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 02:29:54 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 02:29:54 - root - INFO - Application initialization complete
+2025-03-13 02:29:58 - root - INFO - Application starting
+2025-03-13 02:29:58 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:29:58 - root - DEBUG - Streamlit page configured
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:29:58 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:29:58 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:29:58 - root - INFO - User selected page: Interior Design
+2025-03-13 02:29:58 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:29:58 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:29:58 - root - INFO - Application initialization complete
+2025-03-13 02:30:02 - root - INFO - Application starting
+2025-03-13 02:30:02 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:30:02 - root - DEBUG - Streamlit page configured
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:02 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:30:02 - root - INFO - User selected page: Interior Design
+2025-03-13 02:30:02 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:30:02 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:30:02 - root - INFO - Application initialization complete
+2025-03-13 02:30:07 - root - INFO - Application starting
+2025-03-13 02:30:07 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:30:07 - root - DEBUG - Streamlit page configured
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:07 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:07 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:30:07 - root - INFO - User selected page: Interior Design
+2025-03-13 02:30:07 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:30:07 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:30:07 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 02:30:07 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 02:30:07 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000276D095C650>
+2025-03-13 02:30:07 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x00000276D08CB9B0> server_hostname='api.openai.com' timeout=60
+2025-03-13 02:30:08 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000276CF387190>
+2025-03-13 02:30:08 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 02:30:08 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 02:30:08 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 02:30:08 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 02:30:08 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 02:30:12 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 12 Mar 2025 23:30:12 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3818'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_eede31f9f4a271a680cc8e53522d29dd'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=MzOoDOsv97jvhbXcJCitXyjuyF80pUilRujBG9VFBos-1741822212-1.0.1.1-7VhuZfsUH_k7cC4dnNUrd7.98SzZo46_pkt5PIcriqjz525965sDSrdASRCBh9RW_pZn5qRN2O3VkjPkpCBW55iidbdmmfEKPSy34Fox73k; path=/; expires=Thu, 13-Mar-25 00:00:12 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=lPa83tj5PWVBDcByzSSq6cg4bcho5UhW2oI6LP2MqMQ-1741822212283-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f713e059ebdb8f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 02:30:12 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 02:30:12 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 02:30:12 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 02:30:12 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 02:30:12 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 02:30:12 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_023012_prompt.txt
+2025-03-13 02:30:12 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 02:30:23 - root - INFO - Using diffusers for local Stable Diffusion
+2025-03-13 02:30:23 - root - INFO - Initializing Local Stable Diffusion with ControlNet...
+2025-03-13 02:30:24 - annotator - INFO - Torchvision version: 0.19.1+cpu
+2025-03-13 02:30:24 - annotator - INFO - Torchvision version: 0.19.1+cpu
+2025-03-13 02:30:24 - annotator.compat - INFO - Using compatibility fallbacks for torchvision.transforms.functional_tensor
+2025-03-13 02:30:24 - annotator.mlsd - INFO - Using compatibility layer for torchvision.transforms.functional_tensor
+2025-03-13 02:30:24 - root - DEBUG - Successfully imported MLSD detector using relative import
+2025-03-13 02:30:24 - annotator.mlsd - INFO - Initializing simplified MLSD detector (Canny edge detection fallback)
+2025-03-13 02:30:24 - root - INFO - MLSD detector initialized successfully.
+2025-03-13 02:30:24 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-13 02:30:25 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /lllyasviel/sd-controlnet-mlsd/resolve/main/config.json HTTP/1.1" 200 0
+2025-03-13 02:30:25 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5 HTTP/1.1" 307 90
+2025-03-13 02:30:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 HTTP/1.1" 200 6321
+2025-03-13 02:30:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 307 0
+2025-03-13 02:30:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 200 0
+2025-03-13 02:30:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5/revision/main HTTP/1.1" 307 104
+2025-03-13 02:30:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5/revision/main HTTP/1.1" 200 6321
+2025-03-13 02:30:26 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-13 02:30:27 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.bin HTTP/1.1" 307 0
+2025-03-13 02:30:27 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2025-03-13 02:30:27 - filelock - DEBUG - Attempting to acquire lock 2709681747728 on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:30:27 - filelock - DEBUG - Lock 2709681747728 acquired on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:30:27 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2025-03-13 02:30:28 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /repos/66/6f/666f465fa70158515404e8de2c6bc6fe2f90c46f9296293aa14daededeb32c52/c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27diffusion_pytorch_model.bin%3B+filename%3D%22diffusion_pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1741825827&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTgyNTgyN319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy82Ni82Zi82NjZmNDY1ZmE3MDE1ODUxNTQwNGU4ZGUyYzZiYzZmZTJmOTBjNDZmOTI5NjI5M2FhMTRkYWVkZWRlYjMyYzUyL2M3ZGEwZTIxYmE3ZWE1MDYzN2JlZTI2ZTgxYzIyMDg0NGRlZmRmMDFhYWZjYTAyYjJjNDJlY2RhZGI4MTNkZTQ~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=SDSwv2R3jKr0JkTzlbRe0tipDnegDMLu7vlstTLh9IK2Se0YB-rCAC8oBnzmufgRnQgXGayyYBzadF2WBasW3Kyncr1~chgndZnLR7OtppeNDhU7655qRB9gG4LmVyeyNdKqJSbpCrG2wo7PZZpDiuojP4ElSwSO~8Ba1u3acEOE4NTHOy8q9V6JWzLP74sCzDxSCfJOae9BL6Q-akOcqqcYxpkB2-siQ7m4svGNygee72rfTUxnSYL5fQR49t0HOoHP4ej9v-bt2DeseWYgft7Zyi868zEA-piKclaM9Z9UYKs1cAY5enc65IIdUtIoVcTVQSN0Wsn3axUz4SgRxw__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 3438354725
+2025-03-13 02:30:32 - filelock - DEBUG - Attempting to release lock 2709681747728 on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:30:32 - filelock - DEBUG - Lock 2709681747728 released on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:30:32 - root - ERROR - Error initializing local Stable Diffusion with diffusers: [Errno 28] No space left on device
+2025-03-13 02:30:32 - root - INFO - Trying to initialize local SD using direct approach from main.py
+2025-03-13 02:30:32 - root - INFO - Initialized simplified edge detector using Canny
+2025-03-13 02:30:32 - root - ERROR - Error in direct SD initialization: cannot access free variable 'torch' where it is not associated with a value in enclosing scope
+2025-03-13 02:30:32 - root - ERROR - Direct initialization also failed: Failed to initialize simplified SD pipeline: cannot access free variable 'torch' where it is not associated with a value in enclosing scope
+2025-03-13 02:30:32 - root - ERROR - Primary method failed: Failed to initialize local Stable Diffusion: [Errno 28] No space left on device
+2025-03-13 02:30:32 - root - INFO - Local SD failed, attempting fallback to Hugging Face API
+2025-03-13 02:30:33 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-inference.huggingface.co:443
+2025-03-13 02:30:37 - root - INFO - Application starting
+2025-03-13 02:30:37 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:30:37 - root - DEBUG - Streamlit page configured
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:37 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:30:37 - root - INFO - User selected page: Interior Design
+2025-03-13 02:30:37 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:30:37 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 02:30:37 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 02:30:37 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 02:30:38 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 02:30:38 - root - INFO - Application initialization complete
+2025-03-13 02:30:38 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-13 02:30:38 - root - INFO - Style transformation successful using local SD
+2025-03-13 02:30:38 - root - INFO - Application initialization complete
+2025-03-13 02:30:59 - root - INFO - Application starting
+2025-03-13 02:30:59 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:30:59 - root - DEBUG - Streamlit page configured
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:30:59 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:30:59 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:30:59 - root - INFO - User selected page: Interior Design
+2025-03-13 02:30:59 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:30:59 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:30:59 - root - INFO - Application initialization complete
+2025-03-13 02:31:02 - root - INFO - Application starting
+2025-03-13 02:31:02 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:31:02 - root - DEBUG - Streamlit page configured
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:31:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:31:02 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:31:02 - root - INFO - User selected page: Interior Design
+2025-03-13 02:31:02 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:31:02 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:31:02 - root - INFO - User requested style transformation: Gothic, Method: Local SD
+2025-03-13 02:31:02 - httpcore.connection - DEBUG - close.started
+2025-03-13 02:31:02 - httpcore.connection - DEBUG - close.complete
+2025-03-13 02:31:02 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 02:31:02 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000276E5A58810>
+2025-03-13 02:31:02 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x00000276D08CB9B0> server_hostname='api.openai.com' timeout=60
+2025-03-13 02:31:02 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x00000276E5A5B890>
+2025-03-13 02:31:02 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 02:31:02 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 02:31:02 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 02:31:02 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 02:31:02 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 02:31:06 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 12 Mar 2025 23:31:06 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'2952'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_02891c3372aef5333ece9a0455777747'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f715373e1fd602-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 02:31:06 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 02:31:06 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 02:31:06 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 02:31:06 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 02:31:06 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 02:31:06 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_gothic_20250313_023106_prompt.txt
+2025-03-13 02:31:06 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 02:31:06 - root - INFO - Using diffusers for local Stable Diffusion
+2025-03-13 02:31:06 - root - INFO - Initializing Local Stable Diffusion with ControlNet...
+2025-03-13 02:31:06 - root - DEBUG - Successfully imported MLSD detector using relative import
+2025-03-13 02:31:06 - annotator.mlsd - INFO - Initializing simplified MLSD detector (Canny edge detection fallback)
+2025-03-13 02:31:06 - root - INFO - MLSD detector initialized successfully.
+2025-03-13 02:31:06 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-13 02:31:06 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /lllyasviel/sd-controlnet-mlsd/resolve/main/config.json HTTP/1.1" 200 0
+2025-03-13 02:31:07 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5 HTTP/1.1" 307 90
+2025-03-13 02:31:07 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 HTTP/1.1" 200 6321
+2025-03-13 02:31:07 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 307 0
+2025-03-13 02:31:07 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 200 0
+2025-03-13 02:31:07 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5/revision/main HTTP/1.1" 307 104
+2025-03-13 02:31:07 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5/revision/main HTTP/1.1" 200 6321
+2025-03-13 02:31:07 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-13 02:31:08 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.bin HTTP/1.1" 307 0
+2025-03-13 02:31:08 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2025-03-13 02:31:08 - filelock - DEBUG - Attempting to acquire lock 2709329999120 on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:31:08 - filelock - DEBUG - Lock 2709329999120 acquired on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:31:08 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2025-03-13 02:31:09 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /repos/66/6f/666f465fa70158515404e8de2c6bc6fe2f90c46f9296293aa14daededeb32c52/c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27diffusion_pytorch_model.bin%3B+filename%3D%22diffusion_pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1741825868&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTgyNTg2OH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy82Ni82Zi82NjZmNDY1ZmE3MDE1ODUxNTQwNGU4ZGUyYzZiYzZmZTJmOTBjNDZmOTI5NjI5M2FhMTRkYWVkZWRlYjMyYzUyL2M3ZGEwZTIxYmE3ZWE1MDYzN2JlZTI2ZTgxYzIyMDg0NGRlZmRmMDFhYWZjYTAyYjJjNDJlY2RhZGI4MTNkZTQ~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=d1yN5jbA-m8cqdm0UNZOuy8O2XSWNSZ9pbUIH8kRzB9RXbzMVTfquVq90BM9fpON6l4Zl1HQYtLChDWgs68fxu5j47HmtL6pD2608-9-KFCFuPDoEH99bFbDdr~CUa1m897x7gzmWswO~mkByBMXfPHOuHEeVP44s1HTLSfywKWZy9X4BIDXuDZ7bErTw0YovoJH6SEVDCJKsXQBZYXVR28lpxETXYI3V1VoE9hfpxvF4m-4TWJnAjTHqDwSJll66VnPCN9OBOWrJ460u31iCRMhBhjP-mnC6oDB-Vf52yzZBJMVd23bP2VIi1LXqt9HAPEBwx9meaSiKuFSejK6lQ__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 3438354725
+2025-03-13 02:31:13 - filelock - DEBUG - Attempting to release lock 2709329999120 on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:31:13 - filelock - DEBUG - Lock 2709329999120 released on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:31:13 - root - ERROR - Error initializing local Stable Diffusion with diffusers: [Errno 28] No space left on device
+2025-03-13 02:31:13 - root - INFO - Trying to initialize local SD using direct approach from main.py
+2025-03-13 02:31:13 - root - INFO - Initialized simplified edge detector using Canny
+2025-03-13 02:31:13 - root - ERROR - Error in direct SD initialization: cannot access free variable 'torch' where it is not associated with a value in enclosing scope
+2025-03-13 02:31:13 - root - ERROR - Direct initialization also failed: Failed to initialize simplified SD pipeline: cannot access free variable 'torch' where it is not associated with a value in enclosing scope
+2025-03-13 02:31:13 - root - ERROR - Primary method failed: Failed to initialize local Stable Diffusion: [Errno 28] No space left on device
+2025-03-13 02:31:13 - root - INFO - Local SD failed, attempting fallback to Hugging Face API
+2025-03-13 02:31:14 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-inference.huggingface.co:443
+2025-03-13 02:31:20 - urllib3.connectionpool - DEBUG - https://api-inference.huggingface.co:443 "POST /models/stabilityai/stable-diffusion-xl-refiner-1.0 HTTP/1.1" 200 None
+2025-03-13 02:31:20 - root - INFO - Style transformation successful using local SD
+2025-03-13 02:31:20 - root - INFO - Application initialization complete
+2025-03-13 02:47:06 - root - INFO - Logging system initialized
+2025-03-13 02:47:06 - root - INFO - Application starting
+2025-03-13 02:47:08 - root - INFO - Application starting
+2025-03-13 02:47:09 - interior_design - INFO - Successfully imported StyleTransformer
+2025-03-13 02:47:09 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:47:09 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:47:09 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:47:09 - root - DEBUG - Streamlit page configured
+2025-03-13 02:47:09 - root - DEBUG - Streamlit page configured
+2025-03-13 02:47:09 - root - DEBUG - Streamlit page configured
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:09 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:09 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:47:09 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:47:09 - root - INFO - User selected page: Home
+2025-03-13 02:47:09 - root - INFO - User selected page: Interior Design
+2025-03-13 02:47:09 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 02:47:09 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:47:09 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 02:47:09 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 02:47:09 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:47:09 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 02:47:09 - root - INFO - User selected page: Interior Design
+2025-03-13 02:47:09 - root - INFO - Application initialization complete
+2025-03-13 02:47:09 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:47:09 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 02:47:09 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 02:47:09 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 02:47:10 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 02:47:10 - root - INFO - Application initialization complete
+2025-03-13 02:47:10 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 02:47:10 - root - INFO - Application initialization complete
+2025-03-13 02:47:14 - root - INFO - Application starting
+2025-03-13 02:47:14 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:47:14 - root - DEBUG - Streamlit page configured
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:14 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:14 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:47:14 - root - INFO - User selected page: Interior Design
+2025-03-13 02:47:14 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:47:14 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 02:47:14 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 02:47:14 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 02:47:14 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 02:47:14 - root - INFO - Application initialization complete
+2025-03-13 02:47:41 - root - INFO - Application starting
+2025-03-13 02:47:41 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:47:41 - root - DEBUG - Streamlit page configured
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:41 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:41 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:47:41 - root - INFO - User selected page: Interior Design
+2025-03-13 02:47:41 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:47:41 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:47:41 - root - INFO - Application initialization complete
+2025-03-13 02:47:50 - root - INFO - Application starting
+2025-03-13 02:47:50 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:47:50 - root - DEBUG - Streamlit page configured
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:50 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:50 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:47:50 - root - INFO - User selected page: Interior Design
+2025-03-13 02:47:50 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:47:50 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:47:50 - root - INFO - Application initialization complete
+2025-03-13 02:47:53 - root - INFO - Application starting
+2025-03-13 02:47:53 - root - INFO - Frontend modules imported successfully
+2025-03-13 02:47:53 - root - DEBUG - Streamlit page configured
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 02:47:53 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 02:47:54 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 02:47:54 - root - INFO - User selected page: Interior Design
+2025-03-13 02:47:54 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 02:47:54 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 02:47:54 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 02:47:54 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 02:47:54 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E605470F10>
+2025-03-13 02:47:54 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002E6050D19A0> server_hostname='api.openai.com' timeout=60
+2025-03-13 02:47:54 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E607039F50>
+2025-03-13 02:47:54 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 02:47:54 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 02:47:54 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 02:47:54 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 02:47:54 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 02:47:58 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Wed, 12 Mar 2025 23:47:58 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3400'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_39234160df6b4f053b9a50f5cd7a4118'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=Ty14230Nm9rVwuYjKC3S7b.gms5Ilc92nElceCbLsfc-1741823278-1.0.1.1-7FHztseUrSNREiDvVEmK.wXrpwMvGcEM40ZchOK.ScvTbLCxBqDGA3bauWNZJANtfHRb3s0LXcNqWDhdi5EEISF97_9TVRk6k6y51BKAeO4; path=/; expires=Thu, 13-Mar-25 00:17:58 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=yl8s0Iw8qLgj7IiCr6SHAozNVS.atkr5a14wSbTijPg-1741823278366-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f72de868d8e34d-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 02:47:58 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 02:47:58 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 02:47:58 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 02:47:58 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 02:47:58 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 02:47:58 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_024758_prompt.txt
+2025-03-13 02:47:58 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 02:48:01 - root - INFO - Using diffusers for local Stable Diffusion
+2025-03-13 02:48:01 - root - INFO - Initializing Local Stable Diffusion with ControlNet...
+2025-03-13 02:48:01 - annotator - INFO - Torchvision version: 0.19.1+cpu
+2025-03-13 02:48:01 - annotator - INFO - Torchvision version: 0.19.1+cpu
+2025-03-13 02:48:01 - annotator.compat - INFO - Using compatibility fallbacks for torchvision.transforms.functional_tensor
+2025-03-13 02:48:01 - annotator.mlsd - INFO - Using compatibility layer for torchvision.transforms.functional_tensor
+2025-03-13 02:48:01 - root - DEBUG - Successfully imported MLSD detector using relative import
+2025-03-13 02:48:01 - annotator.mlsd - INFO - Initializing simplified MLSD detector (Canny edge detection fallback)
+2025-03-13 02:48:01 - root - INFO - MLSD detector initialized successfully.
+2025-03-13 02:48:01 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-13 02:48:02 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /lllyasviel/sd-controlnet-mlsd/resolve/main/config.json HTTP/1.1" 200 0
+2025-03-13 02:48:02 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5 HTTP/1.1" 307 90
+2025-03-13 02:48:02 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 HTTP/1.1" 200 6321
+2025-03-13 02:48:02 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 307 0
+2025-03-13 02:48:03 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 200 0
+2025-03-13 02:48:03 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5/revision/main HTTP/1.1" 307 104
+2025-03-13 02:48:03 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5/revision/main HTTP/1.1" 200 6321
+2025-03-13 02:48:03 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-13 02:48:04 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.bin HTTP/1.1" 307 0
+2025-03-13 02:48:04 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2025-03-13 02:48:04 - filelock - DEBUG - Attempting to acquire lock 3187471790608 on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:48:04 - filelock - DEBUG - Lock 3187471790608 acquired on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 02:48:04 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2025-03-13 02:48:05 - urllib3.connectionpool - DEBUG - https://cdn-lfs.hf.co:443 "GET /repos/66/6f/666f465fa70158515404e8de2c6bc6fe2f90c46f9296293aa14daededeb32c52/c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27diffusion_pytorch_model.bin%3B+filename%3D%22diffusion_pytorch_model.bin%22%3B&response-content-type=application%2Foctet-stream&Expires=1741826884&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0MTgyNjg4NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy82Ni82Zi82NjZmNDY1ZmE3MDE1ODUxNTQwNGU4ZGUyYzZiYzZmZTJmOTBjNDZmOTI5NjI5M2FhMTRkYWVkZWRlYjMyYzUyL2M3ZGEwZTIxYmE3ZWE1MDYzN2JlZTI2ZTgxYzIyMDg0NGRlZmRmMDFhYWZjYTAyYjJjNDJlY2RhZGI4MTNkZTQ~cmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=StCwnj~RshlR9GhlSG3V4e6UuPfNEfGoLGEQuNFhGnarlhN0126IkLjAFgpGR4THS2zmh5TVpJ1Q9p04BBvVI-9GHrP4E5OmcG9I6oiLHIOfWR~lB5gmGXFac98qCgUiqiB7E7We2OvorJnVGwbooOoLkF2Ow5ksTNXZ9p08lAdpEUUL2epsECTdmXZvnsip~IumDTqtTDDcpwfKwX2OLyIl~DwYkCI6WN2gN1O4YC38g1BYeCgnvaLAPQlO33b1YMsWEBnHxhH~WccBG1Cb5w74X6H94Bu1DoXUxBhP4I7cFetLsyoYKoAfS0Rh9KeI-FXFfPfIkTxkK6rkMvGgsA__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/1.1" 200 3438354725
+2025-03-13 03:11:53 - filelock - DEBUG - Attempting to release lock 3187471790608 on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 03:11:53 - filelock - DEBUG - Lock 3187471790608 released on C:\Users\msı\.cache\huggingface\hub\models--runwayml--stable-diffusion-v1-5\blobs\c7da0e21ba7ea50637bee26e81c220844defdf01aafca02b2c42ecdadb813de4.lock
+2025-03-13 03:12:17 - root - INFO - Local Stable Diffusion initialized successfully.
+2025-03-13 03:12:17 - root - INFO - Starting local SD transformation at: 2025-03-13 03:12:17
+2025-03-13 03:12:17 - root - DEBUG - Prompt: Transform the existing Living Room by maintaining its basic layout and general perspective, but completely overhaul every element to embody a striking Modern aesthetic. Replace all existing furniture with sleek, minimalist pieces that feature clean lines and geometric shapes. Introduce a low-profile sectional sofa in a rich charcoal gray fabric, paired with a bold, asymmetrical coffee table made of polished concrete and glass. 
+
+Change the wall treatments to a smooth, matte white finish, accented by a single feature wall painted in a deep navy blue or a textured panel of reclaimed wood for warmth. Replace the flooring with large-format porcelain tiles in a cool, light gray, resembling natural stone, to enhance the spacious feel of the room.
+
+Transform the windows into expansive floor-to-ceiling designs with black aluminum frames, dressed with sheer, floor-length white curtains to allow natural light to flood the space. Swap out any existing lighting fixtures for a striking modern chandelier featuring intersecting metal rods with exposed Edison bulbs, complemented by recessed LED lighting in warm tones to create an inviting atmosphere.
+
+Replace all decorative elements with a curated selection of contemporary art pieces; think abstract prints in bold colors, paired with sculptural accessories in metal and glass. Introduce vibrant pops of color through decorative pillows and throws in shades of mustard yellow and teal. 
+
+Use a color palette emphasizing whites, blacks, grays, and accent colors, creating strong visual contrast against the original room. Dramatic lighting changes should enhance the Modern atmosphere, utilizing soft, ambient lighting to highlight the room's architecture while creating cozy, inviting spaces. This transformation will result in a dynamic, sophisticated Modern interior that feels both luxurious and comfortable. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:32:29 - root - INFO - Style transformation successful using local SD
+2025-03-13 03:32:29 - root - INFO - Application initialization complete
+2025-03-13 03:34:08 - root - INFO - Application starting
+2025-03-13 03:34:08 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:08 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:08 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:08 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:08 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:08 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:08 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:08 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:34:08 - httpcore.connection - DEBUG - close.started
+2025-03-13 03:34:08 - httpcore.connection - DEBUG - close.complete
+2025-03-13 03:34:08 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:34:08 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E60F143610>
+2025-03-13 03:34:08 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002E6050D19A0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:34:08 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E60DB17890>
+2025-03-13 03:34:08 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:34:08 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:34:08 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:34:08 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:34:08 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:34:10 - root - INFO - Application starting
+2025-03-13 03:34:10 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:10 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:10 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:10 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:10 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:10 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:10 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:10 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:34:10 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:34:10 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E625E3F890>
+2025-03-13 03:34:10 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002E6050D19A0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:34:10 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E625E3F710>
+2025-03-13 03:34:10 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:34:10 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:34:10 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:34:10 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:34:10 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:34:12 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:34:12 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3724'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_ded9fb469c90d1fc835c388bc9680625'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=K1lpu3c8v31mGpIq3H2Dgqn5Ka3c2RvKbWATcpY3E8A-1741826052-1.0.1.1-o9kYDEHE2sEx9YUt_.UEW4sSFPZvdXvmpLNUK8HVG3Sfqhwz.o.t0Ob5yj9FFBvDlQzYhnN7SHOTN.e2GAvLg97GWR9DOUV0ScAdE8yKkqM; path=/; expires=Thu, 13-Mar-25 01:04:12 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f771a528cde326-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:34:12 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:34:12 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:34:12 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:34:12 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:34:12 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:34:12 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_033412_prompt.txt
+2025-03-13 03:34:12 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:34:12 - root - INFO - Starting local SD transformation at: 2025-03-13 03:34:12
+2025-03-13 03:34:12 - root - DEBUG - Prompt: Transform the existing living room into a sleek, ultra-modern space while maintaining the original layout and perspective. Replace all furniture with minimalist pieces: swap the bulky sofa for a low-profile sectional in a soft charcoal fabric, and introduce a sculptural coffee table in polished marble with geometric angles. Replace the traditional armchair with a transparent acrylic chair that adds an airy feel. 
+
+Change the wall treatments dramatically; remove any wallpaper and repaint the walls in a crisp, clean white, then add an accent wall in deep navy blue with a textured finish, such as a matte stucco effect. For the flooring, replace the carpet or hardwood with large-format porcelain tiles in a matte finish that mimic natural stone, in a soft gray hue.
+
+Transform the windows by removing heavy drapes and installing sleek floor-to-ceiling glass panels that flood the room with natural light, complemented by sheer white roller shades that offer privacy without obstructing views. 
+
+Ditch outdated lighting fixtures for modern, sculptural pendant lights made of brushed brass, and add recessed LED lighting in a warm white tone to create a cozy ambiance. 
+
+Replace all decorative elements with contemporary artwork featuring bold abstract designs in monochrome and metallics, and introduce sleek, minimalist accessories—like a large, round mirror with a thin frame and a few carefully placed potted succulents in modern planters.
+
+Create strong visual contrast by emphasizing a monochromatic palette with pops of color—think deep blues, soft grays, and metallic accents. Implement dramatic lighting changes that spotlight key design features, enhancing the room's modern atmosphere and creating a striking visual impact that highlights the transformation from traditional to contemporary elegance. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:34:15 - root - INFO - Application starting
+2025-03-13 03:34:15 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:15 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:15 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:15 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:15 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:15 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:15 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:15 - root - INFO - Application initialization complete
+2025-03-13 03:34:16 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:34:16 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5111'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'15.301s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_bd710c8b2ac467451da67c19bcdf73f4'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=RwYO2.isWFDz12oPP_0Y5OEBZzZQGZpixOm6lnfiuYI-1741826056-1.0.1.1-IObEq_3fi4EevNHD8xKyOG0YeHo1mjxtNEKOsHwNaYxC8yO2k82Bj0c2rDUacBaOq9yrJHiif2pAvRl.MmuuCJUYSk3eACStq_hle3KW4qM; path=/; expires=Thu, 13-Mar-25 01:04:16 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f771b2ddb7db8b-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:34:16 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:34:16 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:34:16 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:34:16 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:34:16 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:34:16 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_033416_prompt.txt
+2025-03-13 03:34:16 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:34:16 - root - INFO - Starting local SD transformation at: 2025-03-13 03:34:16
+2025-03-13 03:34:16 - root - DEBUG - Prompt: Transform the existing living room into a striking Modern interior design while maintaining the basic layout and perspective. Replace all furniture with sleek, minimalistic pieces: swap the current sofa for a low-profile, sectional in a muted charcoal gray fabric with clean lines, paired with an avant-garde coffee table made of glass and brushed metal with geometric shapes. Incorporate a bold accent chair in a vibrant mustard yellow or deep teal, made from a combination of leather and soft textiles.
+
+Revamp the walls with a fresh coat of matte white paint, accented by a textured feature wall clad in vertical wooden slats or a bold, dark-colored wallpaper with an abstract pattern. Change the flooring to wide-plank oak in a light finish or polished concrete for a contemporary feel, adorned with a large area rug featuring a monochromatic geometric design.
+
+Transform the windows by replacing traditional drapes with sleek, floor-to-ceiling sheer panels that allow natural light to flood in, framed by minimalistic black metal window frames. Substituting all lighting fixtures, introduce a statement chandelier made of sculptural metal elements, complemented by recessed lighting for an ambient glow and a series of stylish floor lamps with clean lines.
+
+Refresh all decorative elements: replace the current artwork with large, abstract canvases in bold colors, and incorporate modern sculptures or planters with succulents on open shelving. Enhance the atmosphere with dramatic lighting that creates strong contrasts, spotlighting key design features while casting soft shadows across the room. Utilize a cohesive color palette of whites, blacks, and shades of gray, with pops of color from selected furniture and accessories, ensuring a striking visual distinction from the original space. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:34:16 - root - INFO - Application starting
+2025-03-13 03:34:16 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:16 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:16 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:16 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:16 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:16 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:16 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:16 - root - INFO - Application initialization complete
+2025-03-13 03:34:17 - root - INFO - Application starting
+2025-03-13 03:34:17 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:17 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:17 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:17 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:17 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:17 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:17 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:17 - root - INFO - Application initialization complete
+2025-03-13 03:34:20 - root - INFO - Application starting
+2025-03-13 03:34:20 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:20 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:20 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:20 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:20 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:20 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:20 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:20 - root - INFO - Application initialization complete
+2025-03-13 03:34:25 - root - INFO - Application starting
+2025-03-13 03:34:25 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:25 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:25 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:25 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:25 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:25 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:25 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:25 - root - INFO - Application initialization complete
+2025-03-13 03:34:26 - root - INFO - Application starting
+2025-03-13 03:34:26 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:26 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:26 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:26 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:26 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:26 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:26 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:27 - root - INFO - Application initialization complete
+2025-03-13 03:34:29 - root - INFO - Application starting
+2025-03-13 03:34:29 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:34:29 - root - DEBUG - Streamlit page configured
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:34:29 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:34:29 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:34:29 - root - INFO - User selected page: Interior Design
+2025-03-13 03:34:29 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:34:29 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:34:29 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - close.started
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - close.complete
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - close.started
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - close.complete
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E60DB17890>
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000002E6050D19A0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:34:29 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000002E60DB9E2D0>
+2025-03-13 03:34:29 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:34:29 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:34:29 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:34:29 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:34:29 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:34:34 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:34:34 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'4436'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_b6751630d330b85d91b161dd5fa7bd38'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f7722a3ba8e32f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:34:34 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:34:34 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:34:34 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:34:34 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:34:34 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:34:34 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_033434_prompt.txt
+2025-03-13 03:34:34 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:34:34 - root - INFO - Starting local SD transformation at: 2025-03-13 03:34:34
+2025-03-13 03:34:34 - root - DEBUG - Prompt: Transform the existing living room into a strikingly modern interior, ensuring only the basic room layout and perspective remain intact. Begin by replacing all furniture with sleek, minimalist pieces: opt for a low-profile sectional sofa upholstered in a rich charcoal velvet, paired with geometric coffee tables made of transparent glass and matte black metal. Introduce a statement armchair in an off-white boucle fabric, adding texture and warmth.
+
+Next, overhaul the walls with a fresh coat of deep navy blue paint, accented by a large, abstract canvas featuring bold splashes of gold and white. Consider adding a feature wall with textured wooden panels in a natural oak finish, bringing a touch of organic elegance. Replace the flooring with large-format porcelain tiles that mimic polished concrete, enhancing the room's spacious feel.
+
+For the windows, install expansive floor-to-ceiling glass panes with black aluminum frames, adorned with sheer white drapes that softly diffuse the light. Replace all lighting fixtures with modern pendant lights featuring sculptural designs in matte black and brushed brass, illuminating the space with a warm, inviting glow.
+
+All decorative elements should reflect a cohesive modern aesthetic: replace knick-knacks with curated sculptures in marble and metal, and use sleek, monochrome vases filled with minimalistic greenery. The color palette should include shades of gray, black, crisp white, and occasional warm wood tones, creating strong visual contrast against the original room. 
+
+Enhance the atmosphere with dramatic, layered lighting—incorporate recessed ceiling lights that highlight the artwork and a stylish floor lamp with an arc design that provides warm ambient light. This complete transformation will evoke an airy, sophisticated modern living space, brimming with contemporary charm. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:37:28 - root - INFO - Logging system initialized
+2025-03-13 03:37:28 - root - INFO - Application starting
+2025-03-13 03:37:38 - interior_design - INFO - Successfully imported StyleTransformer
+2025-03-13 03:37:38 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:37:38 - root - DEBUG - Streamlit page configured
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:38 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:38 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:37:38 - root - INFO - User selected page: Home
+2025-03-13 03:37:38 - root - DEBUG - Rendering page Home using show() method
+2025-03-13 03:37:39 - root - INFO - Application initialization complete
+2025-03-13 03:37:40 - root - INFO - Application starting
+2025-03-13 03:37:40 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:37:40 - root - DEBUG - Streamlit page configured
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:40 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:40 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:37:40 - root - INFO - User selected page: Interior Design
+2025-03-13 03:37:40 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:37:40 - root - DEBUG - Initializing StyleTransformer in session state
+2025-03-13 03:37:40 - httpx - DEBUG - load_ssl_context verify=True cert=None trust_env=True http2=False
+2025-03-13 03:37:40 - httpx - DEBUG - load_verify_locations cafile='d:\\PROJECTS\\MY_OWN_PEOJECTS\\Unified_MathSolver_InteriorDesign_MusicGenerator_App\\venv\\Lib\\site-packages\\certifi\\cacert.pem'
+2025-03-13 03:37:41 - root - WARNING - CUDA is not available. Using CPU which will be much slower for local SD processing.
+2025-03-13 03:37:41 - root - INFO - Application initialization complete
+2025-03-13 03:37:45 - root - INFO - Application starting
+2025-03-13 03:37:45 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:37:45 - root - DEBUG - Streamlit page configured
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:45 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:45 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:37:45 - root - INFO - User selected page: Interior Design
+2025-03-13 03:37:45 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:37:45 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:37:46 - root - INFO - Application initialization complete
+2025-03-13 03:37:47 - root - INFO - Application starting
+2025-03-13 03:37:47 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:37:47 - root - DEBUG - Streamlit page configured
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:47 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:47 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:37:47 - root - INFO - User selected page: Interior Design
+2025-03-13 03:37:47 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:37:47 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:37:47 - root - INFO - Application initialization complete
+2025-03-13 03:37:52 - root - INFO - Application starting
+2025-03-13 03:37:52 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:37:52 - root - DEBUG - Streamlit page configured
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:52 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:52 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:37:52 - root - INFO - User selected page: Interior Design
+2025-03-13 03:37:52 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:37:52 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:37:52 - root - INFO - Application initialization complete
+2025-03-13 03:37:55 - root - INFO - Application starting
+2025-03-13 03:37:55 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:37:55 - root - DEBUG - Streamlit page configured
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:55 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:55 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:37:55 - root - INFO - User selected page: Interior Design
+2025-03-13 03:37:55 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:37:55 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:37:55 - root - INFO - Application initialization complete
+2025-03-13 03:37:57 - root - INFO - Application starting
+2025-03-13 03:37:57 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:37:57 - root - DEBUG - Streamlit page configured
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:37:57 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:37:57 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:37:57 - root - INFO - User selected page: Interior Design
+2025-03-13 03:37:57 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:37:57 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:37:57 - root - INFO - Application initialization complete
+2025-03-13 03:38:02 - root - INFO - Application starting
+2025-03-13 03:38:02 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:38:02 - root - DEBUG - Streamlit page configured
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:38:02 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:38:02 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:38:02 - root - INFO - User selected page: Interior Design
+2025-03-13 03:38:02 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:38:02 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:38:02 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:38:02 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:38:02 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA5537C650>
+2025-03-13 03:38:02 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001CA56833BF0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:38:02 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA568B5750>
+2025-03-13 03:38:02 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:38:02 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:38:02 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:38:02 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:38:02 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:38:06 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:38:06 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3521'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_ac55a5687bddbf2bdd670e06784c45bd'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'Set-Cookie', b'__cf_bm=S_ml7KMTZfPTZLbyg.mdSs.z4JatG18obbE5w1wThtg-1741826286-1.0.1.1-AKtngGO1svaCYnUYsAf2d9HtiEJeziKJs7sEsdRXgLW4EjSVjyTsALpAHOCzdD.YwKWoS4JIkGMfObtuUmtJSW7XD3Y7VstEOa5D_e8iXHg; path=/; expires=Thu, 13-Mar-25 01:08:06 GMT; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'X-Content-Type-Options', b'nosniff'), (b'Set-Cookie', b'_cfuvid=PfI6wLLAsP2DTq.iysiDvrDJMJgXJcQP9HDAcXVrx7g-1741826286400-0.0.1.1-604800000; path=/; domain=.api.openai.com; HttpOnly; Secure; SameSite=None'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f7775afb08db81-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:38:06 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:38:06 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:38:06 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:38:06 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:38:06 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:38:06 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_033806_prompt.txt
+2025-03-13 03:38:06 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:38:22 - root - INFO - Using diffusers for local Stable Diffusion
+2025-03-13 03:38:22 - root - INFO - Initializing Local Stable Diffusion with ControlNet...
+2025-03-13 03:38:24 - annotator - INFO - Torchvision version: 0.19.1+cpu
+2025-03-13 03:38:24 - annotator - INFO - Torchvision version: 0.19.1+cpu
+2025-03-13 03:38:24 - annotator.compat - INFO - Using compatibility fallbacks for torchvision.transforms.functional_tensor
+2025-03-13 03:38:24 - annotator.mlsd - INFO - Using compatibility layer for torchvision.transforms.functional_tensor
+2025-03-13 03:38:24 - root - DEBUG - Successfully imported MLSD detector using relative import
+2025-03-13 03:38:24 - annotator.mlsd - INFO - Initializing simplified MLSD detector (Canny edge detection fallback)
+2025-03-13 03:38:24 - root - INFO - MLSD detector initialized successfully.
+2025-03-13 03:38:24 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-03-13 03:38:25 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /lllyasviel/sd-controlnet-mlsd/resolve/main/config.json HTTP/1.1" 200 0
+2025-03-13 03:38:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/runwayml/stable-diffusion-v1-5 HTTP/1.1" 307 90
+2025-03-13 03:38:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "GET /api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 HTTP/1.1" 200 6321
+2025-03-13 03:38:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /runwayml/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 307 0
+2025-03-13 03:38:26 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json HTTP/1.1" 200 0
+2025-03-13 03:38:42 - root - INFO - Local Stable Diffusion initialized successfully.
+2025-03-13 03:38:42 - root - INFO - Starting local SD transformation at: 2025-03-13 03:38:42
+2025-03-13 03:38:42 - root - DEBUG - Prompt: Transform the existing living room into a stunning modern aesthetic while retaining only the basic layout and general positioning. The room should be completely reimagined: replace all furniture with sleek, minimalist pieces made from materials like matte black metal, light oak, and soft gray upholstery. Introduce a low-profile sectional sofa with clean lines, paired with a geometric coffee table in polished glass and a sculptural accent chair in vibrant mustard yellow. 
+
+Revamp the walls with a smooth, matte white finish, incorporating a feature wall clad in textured, pale wood panels, creating a warm yet modern backdrop. Update the flooring to wide-plank, light gray hardwood or polished concrete, enhancing the room's spaciousness. 
+
+Transform the windows into floor-to-ceiling glass panels, framed in black aluminum, and dress them with sheer, flowing drapes in a subtle ivory hue, allowing natural light to flood in. Replace all lighting fixtures with striking modern alternatives, such as oversized pendant lights with an industrial design, and add recessed LED lighting to highlight key features of the room.
+
+Change out all decorative elements, opting for large abstract artwork with bold splashes of color against the minimalist walls, and introduce sculptural vases in ceramic or glass with asymmetrical shapes. Incorporate a mix of natural greenery in sleek planters to soften the space.
+
+Use a cohesive color palette of cool grays, warm whites, and pops of bold colors like teal and amber to create strong visual contrast against the original room. Dramatically enhance the atmosphere with soft, ambient lighting that creates inviting pools of light, accentuating the clean lines and textures of modern design. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:46:33 - root - INFO - Style transformation successful using local SD
+2025-03-13 03:46:33 - root - INFO - Application initialization complete
+2025-03-13 03:47:35 - root - INFO - Application starting
+2025-03-13 03:47:35 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:47:35 - root - DEBUG - Streamlit page configured
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:35 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:47:35 - root - INFO - User selected page: Interior Design
+2025-03-13 03:47:35 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:47:35 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:47:35 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:47:35 - root - INFO - Application starting
+2025-03-13 03:47:35 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:47:35 - root - DEBUG - Streamlit page configured
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:35 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:35 - httpcore.connection - DEBUG - close.started
+2025-03-13 03:47:35 - httpcore.connection - DEBUG - close.complete
+2025-03-13 03:47:35 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:47:35 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:47:35 - root - INFO - User selected page: Interior Design
+2025-03-13 03:47:35 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:47:35 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:47:35 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA568B5410>
+2025-03-13 03:47:35 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001CA56833BF0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:47:35 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:47:35 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA53E1B1D0>
+2025-03-13 03:47:35 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:35 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:47:35 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:47:35 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:47:35 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA6BFDABD0>
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001CA56833BF0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA6BFBC210>
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:36 - root - INFO - Application starting
+2025-03-13 03:47:36 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:47:36 - root - DEBUG - Streamlit page configured
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:36 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:47:36 - root - INFO - User selected page: Interior Design
+2025-03-13 03:47:36 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:47:36 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:47:36 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA6BFBD2D0>
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001CA56833BF0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:47:36 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA4C402210>
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:47:36 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:36 - root - INFO - Application starting
+2025-03-13 03:47:36 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:47:36 - root - DEBUG - Streamlit page configured
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:36 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:37 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:47:37 - root - INFO - User selected page: Interior Design
+2025-03-13 03:47:37 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:47:37 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:47:37 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:47:37 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:47:37 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA6BFBF790>
+2025-03-13 03:47:37 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001CA56833BF0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:47:37 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA6BA785D0>
+2025-03-13 03:47:37 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:37 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:47:37 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:47:37 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:47:37 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:37 - root - INFO - Application starting
+2025-03-13 03:47:37 - root - INFO - Frontend modules imported successfully
+2025-03-13 03:47:37 - root - DEBUG - Streamlit page configured
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'sRGB' 41 1
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'gAMA' 54 4
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'pHYs' 70 9
+2025-03-13 03:47:37 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 91 65445
+2025-03-13 03:47:37 - root - DEBUG - Logo loaded successfully from frontend/assets/logo.png
+2025-03-13 03:47:37 - root - INFO - User selected page: Interior Design
+2025-03-13 03:47:37 - root - DEBUG - Rendering page Interior Design using show() method
+2025-03-13 03:47:37 - root - INFO - User uploaded file: living-room-victorian.jpg
+2025-03-13 03:47:37 - root - INFO - User requested style transformation: Modern, Method: Local SD
+2025-03-13 03:47:37 - httpcore.connection - DEBUG - connect_tcp.started host='api.openai.com' port=443 local_address=None timeout=60 socket_options=None
+2025-03-13 03:47:37 - httpcore.connection - DEBUG - connect_tcp.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA6D6BDFD0>
+2025-03-13 03:47:37 - httpcore.connection - DEBUG - start_tls.started ssl_context=<ssl.SSLContext object at 0x000001CA56833BF0> server_hostname='api.openai.com' timeout=60
+2025-03-13 03:47:38 - httpcore.connection - DEBUG - start_tls.complete return_value=<httpcore._backends.sync.SyncStream object at 0x000001CA6D6BD210>
+2025-03-13 03:47:38 - httpcore.http11 - DEBUG - send_request_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:38 - httpcore.http11 - DEBUG - send_request_headers.complete
+2025-03-13 03:47:38 - httpcore.http11 - DEBUG - send_request_body.started request=<Request [b'POST']>
+2025-03-13 03:47:38 - httpcore.http11 - DEBUG - send_request_body.complete
+2025-03-13 03:47:38 - httpcore.http11 - DEBUG - receive_response_headers.started request=<Request [b'POST']>
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:47:39 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3106'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9998'), (b'x-ratelimit-remaining-tokens', b'197526'), (b'x-ratelimit-reset-requests', b'17.16s'), (b'x-ratelimit-reset-tokens', b'742ms'), (b'x-request-id', b'req_1a3db566a22cd355025d98a01f34583f'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f7855abc63db67-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:47:39 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:47:39 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_034739_prompt.txt
+2025-03-13 03:47:39 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:47:39 - root - INFO - Starting local SD transformation at: 2025-03-13 03:47:39
+2025-03-13 03:47:39 - root - DEBUG - Prompt: Transform the existing Living Room into a striking Modern interior design while maintaining the basic layout and general perspective. Envision a space where all furniture is replaced with sleek, minimalist pieces: a low-profile sectional sofa in a muted gray fabric, paired with a sculptural coffee table made of glass and brushed metal. The walls should be coated in a soft, matte white finish with one accent wall featuring a bold, geometric wallpaper in black and gold tones, creating a striking focal point. 
+
+Replace the flooring with large-format, polished concrete tiles that reflect light and enhance the modern aesthetic. Windows should be reimagined as expansive floor-to-ceiling panes with black aluminum frames, adorned with sheer, flowing drapes in a serene ivory that softly diffuse natural light. 
+
+All lighting fixtures must dramatically change to include a cluster of minimalist pendant lights with warm LED bulbs, suspended from the ceiling to create an inviting ambiance. Incorporate sleek, recessed lighting along the edges of the ceiling for a clean look. 
+
+Replace decorative elements with contemporary accessories: a large abstract canvas featuring bold splashes of color, a few carefully curated monochromatic sculptures, and a stylish indoor plant in a matte black planter. The color palette should shift to include whites, blacks, and deep jewel tones like emerald green and sapphire blue, providing a vibrant contrast to the original room. 
+
+Ensure the overall transformation creates a strong visual contrast between the original and the new design, emphasizing clean lines, open space, and a compelling mix of textures that define modern aesthetics. The dramatic lighting should enhance the contemporary feel, creating shadows and highlights that accentuate the room’s features. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:47:39 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3340'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9999'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'8.64s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_9febf02b78aab3e31f0a80671c8833bc'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f7855a2cde7243-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:47:39 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:47:39 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:47:39 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_034739_prompt.txt
+2025-03-13 03:47:39 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:47:39 - root - INFO - Starting local SD transformation at: 2025-03-13 03:47:39
+2025-03-13 03:47:39 - root - DEBUG - Prompt: Transform the existing Living Room while maintaining the basic layout and perspective. Completely reimagine all interior elements to embody a striking Modern aesthetic. Replace all furniture with sleek, geometric pieces—opt for a low-profile sectional sofa upholstered in rich charcoal velvet, complemented by a sculptural, glass coffee table with brushed brass accents. Introduce a pair of minimalist lounge chairs in vibrant mustard yellow leather, contrasting boldly against the muted tones.
+
+Revamp the walls with a smooth, matte white finish, accented by a single feature wall clad in textured concrete panels, imparting an industrial edge. Replace the existing flooring with large-format, polished concrete tiles in a soft gray, enhancing the open, airy feel typical of Modern design. 
+
+Transform the windows into expansive floor-to-ceiling glass panels, framed in black metal, adorned with sheer, light-filtering roller shades that allow natural light to flood the room. 
+
+Dramatically upgrade all lighting fixtures: install a striking, oversized pendant light with an organic form in matte black, alongside sleek recessed lighting that washes the walls in a warm glow. 
+
+Replace decorative elements with abstract artwork featuring bold splashes of color—think deep blues, vibrant reds, and soft pastels—set against a backdrop of minimalistic decor. Incorporate a large, sculptural plant in a modern pot to bring life to the space without clutter.
+
+The overall color palette should shift to a harmonious blend of neutrals with pops of bold color, emphasizing visual contrast with the original room. Dramatic lighting changes enhance the atmosphere, creating deep shadows and highlights that accentuate the room's modern features, inviting a sense of sophistication and contemporary elegance. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:47:40 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:47:40 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'4142'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9997'), (b'x-ratelimit-remaining-tokens', b'197847'), (b'x-ratelimit-reset-requests', b'25.273s'), (b'x-ratelimit-reset-tokens', b'645ms'), (b'x-request-id', b'req_8ebbf2313b558de8f4ccbd3cf4d2435b'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'CF-Cache-Status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f7855e1bace32f-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:47:40 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:47:40 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:47:40 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:47:40 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:47:40 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:47:40 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_034740_prompt.txt
+2025-03-13 03:47:40 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:47:40 - root - INFO - Starting local SD transformation at: 2025-03-13 03:47:40
+2025-03-13 03:47:40 - root - DEBUG - Prompt: Transform the existing living room while retaining its basic layout and perspective into a stunning modern interior. Replace all furniture with sleek, minimalist pieces: swap the traditional sofa for a low-profile, angular sectional in a muted charcoal fabric, paired with a geometric glass coffee table. Introduce a striking accent chair in a vibrant mustard yellow, adding a pop of color. 
+
+Revamp the walls with a smooth, matte white finish, complemented by a bold, oversized abstract painting featuring sharp lines and monochromatic tones. Replace the existing flooring with wide-plank dark oak or polished concrete, enhancing the modern aesthetic. 
+
+Transform the windows into expansive floor-to-ceiling glass panels, framing the view with minimalist black metal frames and sheer white roller shades for a clean look. Replace outdated light fixtures with bold, sculptural pendant lights made from brushed brass, casting dynamic shadows throughout the room.
+
+Incorporate an array of modern decorative elements: a large, organic-shaped ceramic vase with a single green plant, minimalist bookshelves with open cubbies, and a statement rug featuring a blend of geometric patterns in a monochrome palette. 
+
+Ensure strong visual contrast between the original space and the newly transformed room by highlighting the bright, airy feel of modern design against the previous cluttered aesthetic. Emphasize rich textures through the use of smooth glass, soft fabrics, and polished metals. Dramatic recessed lighting and strategically placed spotlights should enhance the ambiance, creating an inviting yet sophisticated atmosphere, perfect for contemporary living. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:47:41 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:47:41 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'3718'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9995'), (b'x-ratelimit-remaining-tokens', b'198563'), (b'x-ratelimit-reset-requests', b'41.181s'), (b'x-ratelimit-reset-tokens', b'430ms'), (b'x-request-id', b'req_9646d466930a7daa19a9d09222ce5227'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f78566adf4e346-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:47:41 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:47:41 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:47:41 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:47:41 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:47:41 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:47:41 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_034741_prompt.txt
+2025-03-13 03:47:41 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:47:41 - root - INFO - Starting local SD transformation at: 2025-03-13 03:47:41
+2025-03-13 03:47:41 - root - DEBUG - Prompt: Transform the living room into a stunning modern interior design while maintaining the original layout and perspective. Begin by replacing all furniture with sleek, minimalist pieces: opt for a low-profile sectional sofa in a neutral, textured fabric like light grey or beige, paired with a sculptural coffee table made of glass and brushed metal. Introduce an oversized, geometric floor lamp with a matte black finish to create a striking focal point.
+
+Completely overhaul the walls with a fresh coat of soft white paint, incorporating an accent wall clad in natural wood slats or a bold, dark navy blue for contrast. Integrate modern artwork featuring abstract designs with bright pops of color, framed in thin, matte black frames.
+
+Replace the existing flooring with polished concrete or large-format porcelain tiles in a light, matte finish, enhancing the open space feel. Update the windows to feature expansive floor-to-ceiling panes, dressed with sheer, light-filtering drapes in a soft, flowing fabric that adds an airy touch.
+
+All lighting fixtures must be modernized; incorporate recessed LED ceiling lights for a clean look, alongside a statement chandelier with a minimalist design in brushed brass. 
+
+Introduce decorative elements that embody modern aesthetics, such as a large, indoor plant in a textured ceramic pot, accent cushions in bold patterns, and a streamlined media console in high-gloss white. 
+
+Utilize a color palette of whites, soft greys, deep blues, and metallic accents to create a sophisticated yet inviting atmosphere. Dramatic lighting changes should highlight the clean lines and modern elements, casting soft shadows that enhance the overall contemporary ambiance. This transformation will result in a striking visual contrast from the original room, showcasing a complete metamorphosis into modern elegance. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering
+2025-03-13 03:47:42 - httpcore.http11 - DEBUG - receive_response_headers.complete return_value=(b'HTTP/1.1', 200, b'OK', [(b'Date', b'Thu, 13 Mar 2025 00:47:42 GMT'), (b'Content-Type', b'application/json'), (b'Transfer-Encoding', b'chunked'), (b'Connection', b'keep-alive'), (b'access-control-expose-headers', b'X-Request-ID'), (b'openai-organization', b'user-io1mewxmqkmi4yu1lphjlrc4'), (b'openai-processing-ms', b'5134'), (b'openai-version', b'2020-10-01'), (b'x-ratelimit-limit-requests', b'10000'), (b'x-ratelimit-limit-tokens', b'200000'), (b'x-ratelimit-remaining-requests', b'9996'), (b'x-ratelimit-remaining-tokens', b'198384'), (b'x-ratelimit-reset-requests', b'33.321s'), (b'x-ratelimit-reset-tokens', b'484ms'), (b'x-request-id', b'req_9a43d316c09fc207c9edff8d6d4f95e1'), (b'strict-transport-security', b'max-age=31536000; includeSubDomains; preload'), (b'cf-cache-status', b'DYNAMIC'), (b'X-Content-Type-Options', b'nosniff'), (b'Server', b'cloudflare'), (b'CF-RAY', b'91f78561d83adb87-IST'), (b'Content-Encoding', b'gzip'), (b'alt-svc', b'h3=":443"; ma=86400')])
+2025-03-13 03:47:42 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-03-13 03:47:42 - httpcore.http11 - DEBUG - receive_response_body.started request=<Request [b'POST']>
+2025-03-13 03:47:42 - httpcore.http11 - DEBUG - receive_response_body.complete
+2025-03-13 03:47:42 - httpcore.http11 - DEBUG - response_closed.started
+2025-03-13 03:47:42 - httpcore.http11 - DEBUG - response_closed.complete
+2025-03-13 03:47:42 - root - INFO - Saved transformation prompt to: data/outputs/interior_design\living-room-victorian_modern_20250313_034742_prompt.txt
+2025-03-13 03:47:42 - root - INFO - Attempting transformation with local Stable Diffusion
+2025-03-13 03:47:42 - root - INFO - Starting local SD transformation at: 2025-03-13 03:47:42
+2025-03-13 03:47:42 - root - DEBUG - Prompt: Transform the existing living room into a strikingly modern interior design, while maintaining the original layout and perspective. Completely replace all furniture with sleek, contemporary pieces characterized by clean lines and minimalist forms. Opt for a low-profile sectional sofa in a rich charcoal fabric paired with a geometric coffee table in polished brass and glass. Introduce a bold accent chair with a sculptural design in vibrant teal to create a focal point.
+
+Revamp the walls with a smooth, matte finish in a soft white, accented by a single feature wall clad in dark reclaimed wood for warmth and texture. Replace the flooring with wide-plank, light oak hardwood, finished with a satin sheen to enhance the modern aesthetic. Install expansive floor-to-ceiling windows with black aluminum frames, dressed in sheer white drapes that cascade elegantly to the floor, allowing natural light to flood the space.
+
+Change all lighting fixtures to statement pieces, such as an oversized, sculptural pendant light in brushed nickel suspended above the coffee table, and sleek, recessed LED lighting embedded in the ceiling for a clean, unobtrusive look. Replace decorative elements with curated accessories, including abstract sculptures in ceramic and metal, and large-scale modern art pieces featuring bold colors and dynamic shapes.
+
+Create a strong visual contrast between the original and transformed rooms by utilizing a bold color palette of deep blues, crisp whites, and metallic accents, highlighting the sophisticated yet inviting atmosphere of modern design. Dramatic lighting should enhance this transformation, casting soft shadows and highlighting textures, while maintaining a bright, airy feel, showcasing the beauty of modern aesthetics in every corner. dramatic transformation, completely different style, high-quality detailed texture, professional interior photography, architectural visualization, ultra detailed, 8k resolution, perfect lighting, photorealistic rendering

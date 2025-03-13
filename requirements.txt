@@ -21,3 +21,20 @@ huggingface_hub==0.16.4
 httpx==0.25.0
 accelerate==0.20.3
 basicsr==1.4.2
+# Dependencies for local Stable Diffusion with ControlNet
+torch==2.0.1
+torchvision==0.15.2
+safetensors==0.3.1
+ftfy==6.1.1
+invisible-watermark==0.2.0
+xformers==0.0.20
+controlnet-aux==0.0.6
+# Optional: For improved performance with CUDA
+triton==2.0.0; platform_system=="Linux"
+# Utilities for file handling and reporting
+tqdm==4.66.1
+colorama==0.4.6
+# Image processing
+kornia==0.6.12
+# Logging and monitoring
+loguru==0.7.0

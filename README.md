@@ -13,6 +13,9 @@ ai_suite/
 ├── common/              # Shared utilities and components
 ├── nerd_ai/             # Math solver application
 ├── interior_design/     # Interior design application
+│   ├── annotator/       # ControlNet annotators (MLSD, etc.)
+│   ├── utils/           # Interior design utilities
+│   └── style_transformer.py  # Core transformation engine
 ├── music_generator/     # Music generation application
 ├── frontend/            # Streamlit UI components
 ├── tests/               # Test suite for all components
@@ -79,7 +82,11 @@ ai_suite/
 - Transform room styles using AI image generation
 - Support for multiple design styles (Modern, Minimalist, Industrial, etc.)
 - Maintain original room layout while changing style elements
+- **NEW**: Now supports both API-based and local Stable Diffusion processing methods:
+  - **API Method**: Uses Hugging Face Inference API with SDXL for high-quality transformations
+  - **Local Method**: Uses Stable Diffusion with ControlNet MLSD for structure-preserving transformations on your own GPU
 - High-quality image transformations with configurable parameters
+- Enhanced UI with advanced settings for customization
 
 ### Music Generator
 - Create personalized song lyrics based on genre, mood, and purpose
@@ -145,12 +152,15 @@ The application supports the following key workflows:
    - Step-by-step solution is generated
    - Solution is displayed with properly formatted math notation
 
-2. **Interior Design Workflow**:
-   - Upload a room image
+2. **Interior Design Workflow** (Updated):
+   - Upload a room image or select a sample
    - Select desired style transformation
+   - Choose processing method (API or Local Stable Diffusion)
+   - Adjust advanced settings (strength, steps, resolution)
    - Room is analyzed and key elements are identified
-   - AI generates a transformation prompt
+   - AI generates a detailed transformation prompt
    - Transformed image is generated maintaining the original layout
+   - Download the transformed image
 
 3. **Music Generator Workflow**:
    - Select music genre, mood, and purpose
@@ -161,6 +171,61 @@ The application supports the following key workflows:
 
 For detailed workflow documentation, see the `workflows/` directory.
 
+## Interior Design App - Detailed Overview
+
+The Interior Design app has been significantly enhanced with dual processing options and improved customization. Here's a detailed breakdown:
+
+### Processing Methods
+
+#### 1. Hugging Face API Method (Cloud-based)
+- Uses SDXL Refiner model through Hugging Face's Inference API
+- Requires an API key and internet connection
+- Fast processing with minimal local resource usage
+- Subject to API rate limits and quotas
+
+#### 2. Local Stable Diffusion Method (GPU-based)
+- Uses Stable Diffusion with ControlNet MLSD for structure preservation
+- Runs entirely on your local GPU (CUDA) or CPU
+- No internet connection required after initial model download
+- Unlimited usage with no rate limits
+- Requires more local resources (RAM, VRAM, etc.)
+
+### Key Features
+
+- **Room Type Detection**: Automatically identifies the type of room in your image
+- **Multi-Style Support**: Transform your space into various styles including Modern, Soho, Gothic, and more
+- **Style Preservation**: Maintains structural elements while completely transforming design aspects
+- **Advanced Customization**:
+  - Transformation strength (0.1-1.0)
+  - Inference steps (20-100)
+  - Image resolution (384-768)
+- **Prompt Generation**: Uses AI to create detailed prompts for consistent style transformations
+- **Downloadable Results**: Save your transformed room images locally
+
+### System Requirements
+
+For local processing:
+- **GPU Mode**: NVIDIA GPU with CUDA support, 6GB+ VRAM recommended
+- **CPU Mode**: Will work but processing is much slower
+- **RAM**: 8GB minimum, 16GB+ recommended
+- **Disk Space**: ~4GB for model files (downloaded on first use)
+
+### Configuration Options
+
+The Interior Design app can be configured through environment variables or the `common/config.py` file:
+
+```python
+INTERIOR_DESIGN_SETTINGS = {
+    "supported_styles": ["Modern", "Soho", "Gothic", "Minimalist", "Industrial", "Vintage", "Contemporary"],
+    "supported_rooms": ["Living Room", "Kitchen", "Bedroom", "Bathroom", "Dining Room", "Office"],
+    "image_generation": {
+        "guidance_scale": 8.0,
+        "steps": 50,
+        "strength": 0.8
+    }
+}
+```
+
 ## Error Handling and Robustness
 
 The latest version includes improved error handling across all components:
@@ -169,6 +234,7 @@ The latest version includes improved error handling across all components:
 - Graceful failure modes with informative error messages
 - Fallback mechanisms when API services are unavailable
 - Automatic handling of edge cases in content generation
+- User-friendly error messages with troubleshooting suggestions
 
 ## Future Development
 
@@ -176,6 +242,7 @@ Planned enhancements for future versions:
 
 - Additional math problem types and solution methods
 - More interior design styles and room customization options
+- Enhanced 3D visualization for interior design transformations
 - Advanced music generation features (melody, chords, etc.)
 - User accounts and saved project functionality
 - Mobile-friendly responsive design
@@ -186,13 +253,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Hugging Face API Integration
 
-The AI Suite now includes integration with Hugging Face's Inference API, which allows you to use powerful diffusion models for image generation without downloading large model files locally. This is implemented in both the Interior Design Style Transformer and Music Generator modules.
+The AI Suite includes integration with Hugging Face's Inference API, which allows you to use powerful diffusion models for image generation without downloading large model files locally. This is implemented in both the Interior Design Style Transformer and Music Generator modules.
 
 ### Features
 
 - **Text-to-Image Generation**: Create high-quality images from text descriptions using state-of-the-art models like Stable Diffusion XL.
 - **Image-to-Image Transformation**: Transform existing images based on text prompts, particularly useful for the Interior Design module.
-- **Fallback Mechanism**: If the Hugging Face API is not available or fails, the system gracefully falls back to the original mock implementations.
+- **Fallback Mechanism**: If the Hugging Face API is not available or fails, the system gracefully falls back to local processing.
 
 ### Setup
 
@@ -210,7 +277,7 @@ The free tier of Hugging Face's Inference API has the following rate limits:
 - Approximately 5 requests per minute
 - Around 50 requests per day
 
-For more intensive usage, consider upgrading to Hugging Face Pro or implementing your own model hosting.
+For more intensive usage, consider upgrading to Hugging Face Pro, using the local processing option, or implementing your own model hosting.
 
 ### Testing
 
@@ -224,7 +291,10 @@ This will run both text-to-image and image-to-image tests, saving the results to
 
 ### Models Used
 
-- **Interior Design**: Uses `stabilityai/stable-diffusion-xl-base-1.0` for room style transformations.
+- **Interior Design**: 
+  - API Method: Uses `stabilityai/stable-diffusion-xl-refiner-1.0` for high-quality transformations
+  - Local Method: Uses `runwayml/stable-diffusion-v1-5` with `lllyasviel/sd-controlnet-mlsd` for structure preservation
+
 - **Music Generator**: Uses `stabilityai/stable-diffusion-xl-base-1.0` for album cover art generation.
 
 These models can be configured in `common/config.py` if you prefer to use different models.
