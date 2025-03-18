@@ -32,7 +32,7 @@ controlnet-aux==0.0.6
 # Optional: For improved performance with CUDA
 triton==2.0.0; platform_system=="Linux"
 # Utilities for file handling and reporting
-tqdm==4.66.1
+tqdm==4.66.3
 colorama==0.4.6
 # Image processing
 kornia==0.6.12
