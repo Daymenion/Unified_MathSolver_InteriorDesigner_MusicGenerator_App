@@ -3,7 +3,7 @@ opencv-contrib-python==4.8.1.78
 diffusers==0.20.0
 transformers==4.48.0
 einops==0.3.0
-streamlit==1.29.0
+streamlit==1.37.0
 openai==1.12.0
 pillow==10.3.0
 numpy==1.26.2
