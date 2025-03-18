@@ -14,7 +14,7 @@ requests==2.31.0
 python-dotenv==1.0.0
 scikit-image==0.22.0
 tensorflow-hub==0.14.0
-langchain==0.0.335
+langchain==0.2.5
 pydantic==2.5.2
 pytest==7.4.3
 huggingface_hub==0.16.4
